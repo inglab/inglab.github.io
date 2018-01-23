@@ -41,11 +41,11 @@ img {
     -webkit-animation: colorize 2s cubic-bezier(0, 0, .78, .36) 1;
     animation: colorize 2s cubic-bezier(0, 0, .78, .36) 1;
     background: transparent;
-    border: 10px solid rgba(0, 0, 0, 0.12);
-    border-radius: 4px;
-    display: block;
-    margin: 1.3em auto;
-    max-width: 95%;
+//    border: 10px solid rgba(0, 0, 0, 0.12);
+//    border-radius: 4px;
+    display: inline;
+//    margin: 1.3em auto;
+//    max-width: 95%;
 }
 			footer {
                 	margin: 0px;
