@@ -47,7 +47,14 @@ img {
 //    margin: 1.3em auto;
 //    max-width: 95%;
 }
+section {
+	float: left;
+}
+aside{
+	float: right;
+}
 			footer {
+				float: clear;
                 	margin: 0px;
 				padding: 0px;
                 background-color: black;
