@@ -3,7 +3,7 @@ layout: base
 sitemap: false
 ---
 
-### 2020 Fall
+<h3> 2020 Fall </h3>
 - Computer Programming for Engineers
 - AI Theory & Algorithm *(Graduate)*
 - Advanced NLP *(Graduate)*
