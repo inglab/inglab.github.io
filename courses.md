@@ -8,7 +8,7 @@ sitemap: false
 - AI Theory & Algorithm *(Graduate)*
 - Advanced NLP *(Graduate)*
 
-### 2020 Sprint
+### 2020 Spring
 - Computer Programming for Engineers
 - Natural Language Processing
 
