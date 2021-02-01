@@ -1,6 +1,5 @@
 ---
-layout: about
-title: Courses
+layout: base
 sitemap: false
 ---
 

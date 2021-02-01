@@ -1,6 +1,5 @@
 ---
-layout: about
-title: ING Lab
+layout: base
 description: >
   Intelligent Narrative and Game Lab.
 last_modified_at: 2021.01.31

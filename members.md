@@ -1,6 +1,5 @@
 ---
-layout: about
-title: Members
+layout: base
 sitemap: false
 ---
 

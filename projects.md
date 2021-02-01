@@ -1,6 +1,5 @@
 ---
-layout: about
-title: Projects
+layout: base
 sitemap: false
 ---
 

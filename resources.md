@@ -1,6 +1,5 @@
 ---
-layout: about
-title: Resources
+layout: base
 sitemap: false
 ---
 

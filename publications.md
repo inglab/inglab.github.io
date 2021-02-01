@@ -1,16 +1,9 @@
 ---
-layout: about
-title: Publications
+layout: base
 sitemap: false
 ---
 
-| *[Publications](#thesis-papers)* | *[Patents](#us-patents)* | *[Awards](#awards)* |
-
-
-
-<h2 class="hr-bottom">Publications</h2>
-
-| *[Thesis Papers](#thesis-papers)* | *[Journal Articles](#journal-articles)* | *[Book Chapters](#book-chapters)* | *[International Papers](#international-papers)* | *[Domestic Papers](#domestic-papers)* |
+| *[Thesis Papers](#thesis-papers)* | *[Journal Articles](#journal-articles)* | *[Book Chapters](#book-chapters)* | *[International Papers](#international-papers)* | *[Domestic Papers](#domestic-papers)* | *[Patents](#us-patents)* | *[Awards](#awards)* |
 
 
 ### Thesis Papers
