@@ -60,6 +60,8 @@ menu:
     url:               /resources/
   - title:             References
     url:               /references/
+  - title:             스승의 날
+    url:               /teachers-day/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
@@ -103,8 +105,8 @@ collections:
 # Theme
 # ---------------------------------------------------------------------------------------
 
-# theme: jekyll-theme-hydejack
-remote_theme: hydecorp/hydejack@v9.0.0-rc.6
+# theme: jekyll-theme-hydejack                  # FOR LOCAL
+remote_theme: hydecorp/hydejack@v9.0.0-rc.6   # FOR GITHUB (REMOTE)
 
 
 # Customizaton
