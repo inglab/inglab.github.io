@@ -60,8 +60,8 @@ menu:
     url:               /resources/
   - title:             References
     url:               /references/
-  - title:             스승의 날
-    url:               /teachers-day/
+#   - title:             스승의 날
+#     url:               /teachers-day/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
