@@ -150,7 +150,7 @@ sitemap: false
 
 #### Registered (등록특허)
 1. 임베딩 기반의 인과 관계 탐지 및 추출 방법. 정윤경.<br>*Application No: 10-2019-0019985 (2019.02.20)*<br>*Registration No: 10-2203895 (2021.01.11)*
-2. 이미지 학습을 이용한 텍스트 필터링 방법 및 장치. 유주연, 정윤경.<br>*Application No: 10-2019-0179915 (2019.12.31)*
+2. 이미지 학습을 이용한 텍스트 필터링 방법 및 장치. 유주연, 정윤경.<br>*Application No: 10-2019-0179915 (2019.12.31)<br>*Registration No: 10-2244982 (2021.4.21)*
 3. 스토리 생성 장치 및 스토리 생성 방법. 정윤경, 유혜연.<br>*Application No: 10-2017-0030476 (2017.3.10)*<br>*Registration No: 10-1926146 (2018.11.30)*
 4. 시공간 구조 기반의 확률 그래프 모델 학습 장치 및 방법. 김여진 장병탁 배병철 최현진 정윤경 최영상. Apparatus and method for generating probabilistic graphical model based on time- space structure. Yeo-Jin Kim, Byoung-Tak, Byung-Chull Bae, Hyun-Jin Choi, Yun- Gyung Cheong, Young-Sang Choi.<br>*Application number: 1020100078012 (2010.08.12)*<br>*Registration No: 1016725000000 (2016.10.28)*
 5. 데이터 처리 장치 및 방법 (Data Processing Apparatus and Method). Yun-Gyung Cheong.<br>*Application No: 10-2009-0087926 (2009.09.17)*<br>*Registration No: 1016157070000 (2016.04.20)*
