@@ -102,7 +102,7 @@ sitemap: false
 
 
 ### Domestic Papers
-1. 인물 정보 태그를 활용한 드라마 영상의 이미지 캡셔닝 성능 개선. 김현주, 조진욱, 현지웅, 정윤경. 한국정보과학회 KCC 2021.06.23-25.<br>*[PDF](Quality_Improvement_of_Image_Captions_for_Cinematic_Video.pdf)*
+1. 인물 정보 태그를 활용한 드라마 영상의 이미지 캡셔닝 성능 개선. 김현주, 조진욱, 현지웅, 정윤경. 한국정보과학회 KCC 2021.06.23-25. (AWARDED) <br>*[PDF](Quality_Improvement_of_Image_Captions_for_Cinematic_Video.pdf)*
 1. 가우시안 혼합 변분 오토인코더를 활용한 네트워크 침입 탐지 시스템. 성창민, 송영록, 박종혁, 정윤경. 한국정보과학회 KCC 2021.06.23-25.<br>*[PDF](/assets/files/Network_Intrusion_Detection_System_using_Gaussian_Mixture_Variational_Autoencoder.pdf)*
 1. 제어 가능한 한국어 자연어 생성 모델. 김은총, 정민수, 전현규, 정윤경. 한국정보과학회 KCC 2021.06.23-25.<br>*[PDF](/assets/files/Korean_Controllable_Generation_Model.pdf)*
 1. 어텐션 제약 메모리 증강 오토인코더를 활용한 침입 탐지 시스템. 현지웅, 정윤경. 한국정보과학회 KSC 2020. 2020.12.21-23.
@@ -178,8 +178,10 @@ sitemap: false
 
 ### Awards
 
-1. Siren Game won the firstplace of the GALA Serious Games awards 2013.
-1. Doctoral Consortium Scholarship to attend the Doctoral Consortium and AAAI conference 2006.
+1. MZ Artificial Intelligence Hackathon, 한국지능정보사회흥원 & MediaZen, 2021.
+1. A.I.: Storyteller Challenge, 한국컨텐츠진흥원, 2020.
+1. Siren Game won the firstplace of the GALA Serious Games awards, 2013.
+1. Doctoral Consortium Scholarship to attend the Doctoral Consortium and AAAI conference, 2006.
 1. Graduate Fellow of Computer Science at North Carolina State University, 2001-2004.
 1. Korean National IT Fellowship, 2001-2007.
 1. Awarded Grand Prize for developing new enterprise, LG Electronics, Seoul, South Korea, 1999.
