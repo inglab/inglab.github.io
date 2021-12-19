@@ -31,10 +31,10 @@ sitemap: false
 
 ### International Papers
 #### 2022
-1. Improving a Graph-to-Tree Model for Solving Math Word Problems. Hyunju Kim, Junwon Hwang, Taewoo Yoo, Yun-Gyung Cheong. IMCOM 2022.<br>*[PDF](/assets/files/Improving a Graph-to-Tree Model for Solving Math Word Problems.pdf)
+1. Improving a Graph-to-Tree Model for Solving Math Word Problems. Hyunju Kim, Junwon Hwang, Taewoo Yoo, Yun-Gyung Cheong. IMCOM 2022.<br>*[PDF](/assets/files/Improving a Graph-to-Tree Model for Solving Math Word Problems.pdf)*
 
 #### 2021
-1. Towards Building Intrusion Detection Systems for Multivariate Time Series Data. ChangMin Seong, YoungRok Song, Jiwung Hyun, Yun-Gyung Cheong. Silicon Valley Cybersecurity Conference 2021 (SVCC 2021), December 3-4, 2021.<br>*[PDF](/assets/files/Towards Building Intrusion Detection Systems for Multivariate Time Series Data.pdf)
+1. Towards Building Intrusion Detection Systems for Multivariate Time Series Data. ChangMin Seong, YoungRok Song, Jiwung Hyun, Yun-Gyung Cheong. Silicon Valley Cybersecurity Conference 2021 (SVCC 2021), December 3-4, 2021.<br>*[PDF](/assets/files/Towards Building Intrusion Detection Systems for Multivariate Time Series Data.pdf)*
 1. Developing a Ophthalmic Chatbot System, Jung Hoon Lee, Min Su Jeong, Jin Uk Cho, Hyun Kyu Jeon, Jong Hyeok Park, Kyoung Deok Shin, Su Jeong Song, Yun-Gyung Cheong. IMCOM 2021.
 1. A Peer Learning Method for Building Robust Text Classification Models. Hyun-Kyu Jeon, Yun-Gyung Cheong. The Second Workshop on Multimodal, Expeditive, Generative and Actionable AI (MEGA AI 2021). January 20, 2021, Jeju Island, Korea.
 
