@@ -67,7 +67,7 @@ sitemap: false
 - **박기남** (소프트웨어플랫폼학과) *2019.02* - SK브로드밴드
 - **박우현** (전자전기컴퓨터학과) *2018.08* - 박사 진학
 
-<h3>Undergraduate Students</h3>
+<h3>Former Undergraduate Students</h3>
 
 - **최아영** (소프트웨어학과) *2020.08* - devCAT studio
 - **박한나** (소프트웨어학과) *2020.08* - LINE Plus
