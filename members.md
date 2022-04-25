@@ -3,8 +3,8 @@ layout: base
 sitemap: false
 ---
 
-<h2 class="hr-bottom">Students</h2>
-<h3>Master's degree</h3>
+<h2 class="hr-bottom">Current members</h2>
+<h3>Masters Students</h3>
 
 - **박종혁** (인공지능학과)
 - **성창민** (소프트웨어학과)
@@ -14,40 +14,40 @@ sitemap: false
 - **조건희** (소프트웨어 - 인공지능학과)
 - **배수영** (소프트웨어 - 인공지능학과)
 
-<h3>Bachelor's degree</h3>
+<h3>Undergraduate Students</h3>
 - **임동준** (소프트웨어학과)
 - **장지호** (소프트웨어학과)
 - **류수현** (소프트웨어학과)
 - **김홍구** (소프트웨어학과)
 
 <br>
-<h2 class="hr-bottom">Dissertationi Advising</h2>
-<h3>Ph.D.</h3>
+<h2 class="hr-bottom">Dissertation Advising</h2>
+<h3>Doctoral Students</h3>
 
 - **박진** (AI 로봇학과)
 
-<h3>Master's degree</h3>
+<h3>Masters Students</h3>
 
 - **권순조** (전자전기컴퓨터학과)
 - **박상연** (데이터사이언스 융합학과)
 - **성연주** (데이터사이언스 융합학과)
 
-<h3>Bachelor's degree</h3>
+<h3>Undergraduate Students</h3>
 
 - **신경덕** (소프트웨어학과)
 
 
 <br>
 <h2 class="hr-bottom">Alumni</h2>
-<h3>Post-doc</h3>
+<h3>Former Post-doctoral Fellows</h3>
 
 - **최태종** (경일대학교 조교수)
 
-<h3>Ph.D.</h3>
+<h3>Former Doctoral Students</h3>
 
 - **유혜연** (연성대학교 컴퓨터소프트웨어학과 조교수) 
 
-<h3>Master's degree</h3>
+<h3>Former Masters Students</h3>
 
 - **송영록** (소프트웨어 - 인공지능학과) *2022.02* - 무하유(muhayu) AI 채용/표절검사 기술
 - **현지웅** (소프트웨어 - 인공지능학과) *2022.02* - 뤼튼(Wrtn) AI-assisted writing  
@@ -66,7 +66,7 @@ sitemap: false
 - **박기남** (소프트웨어플랫폼학과) *2019.02* - SK브로드밴드
 - **박우현** (전자전기컴퓨터학과) *2018.08* - 박사 진학
 
-<h3>Bachelor's degree</h3>
+<h3>Undergraduate Students</h3>
 
 - **최아영** (소프트웨어학과) *2020.08* - devCAT studio
 - **박한나** (소프트웨어학과) *2020.08* - LINE Plus
