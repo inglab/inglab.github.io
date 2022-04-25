@@ -21,7 +21,7 @@ sitemap: false
 - **김홍구** (소프트웨어학과)
 
 <br>
-<h2 class="hr-bottom">Paper Guide</h2>
+<h2 class="hr-bottom">Dissertationi Advising</h2>
 <h3>Ph.D.</h3>
 
 - **박진** (AI 로봇학과)
