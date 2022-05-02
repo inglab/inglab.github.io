@@ -31,6 +31,7 @@ sitemap: false
 
 ### International Papers
 #### 2022
+1. JinUk Cho, MinSu Jeong, JinYeong Bak, and Yun-Gyung Cheong. 2022. Genre-Controllable Story Generation via Supervised Contrastive Learning. In Proceedings of the ACM Web Conference 2022 (WWW ’22), April 25–29, 2022, Virtual Event, Lyon, France. ACM, New York, NY, USA, 11 pages. https: //doi.org/10.1145/3485447.3512004
 1. Improving a Graph-to-Tree Model for Solving Math Word Problems. Hyunju Kim, Junwon Hwang, Taewoo Yoo, Yun-Gyung Cheong. IMCOM 2022.<br>*[PDF](/assets/files/Improving a Graph-to-Tree Model for Solving Math Word Problems.pdf)*
 
 #### 2021
