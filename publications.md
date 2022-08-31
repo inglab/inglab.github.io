@@ -106,8 +106,8 @@ sitemap: false
 
 
 ### Domestic Papers
-1. 인과 추론 문제 해결에 적합한 자연어 처리 모델 BART 분석. 조건희, 성창민, 김은총, 정윤경. 한국정보과학회 KCC 2022.06.29-07.01.
-2. 멀티 도메인 대화 데이터 셋을 사용한 문서 검색 모델 성능 개선. 배수영, 김은총, 정윤경. 한국정보과학회 KCC 2022.06.29-07.01.
+1. 인과 추론 문제 해결에 적합한 자연어 처리 모델 BART 분석. 조건희, 성창민, 김은총, 정윤경. 한국정보과학회 KCC 2022.06.29-07.01.<br>*[PDF](/assets/files/논문_비SCI_국내2022 정윤경 인과 추론 문제 해결에 적합한 자연어 처리 모델 BART 분석.pdf)*
+2. 멀티 도메인 대화 데이터 셋을 사용한 문서 검색 모델 성능 개선. 배수영, 김은총, 정윤경. 한국정보과학회 KCC 2022.06.29-07.01.<br>*[PDF](/assets/files/논문_비SCI_국내2022_정윤경 멀티 도메인 대화 데이터 셋을 사용한 문서 검색 모델.pdf)*
 3. 인물 정보 태그를 활용한 드라마 영상의 이미지 캡셔닝 성능 개선. 김현주, 조진욱, 현지웅, 정윤경. 한국정보과학회 KCC 2021.06.23-25. (AWARDED) <br>*[PDF](Quality_Improvement_of_Image_Captions_for_Cinematic_Video.pdf)*
 4. 가우시안 혼합 변분 오토인코더를 활용한 네트워크 침입 탐지 시스템. 성창민, 송영록, 박종혁, 정윤경. 한국정보과학회 KCC 2021.06.23-25.<br>*[PDF](/assets/files/Network_Intrusion_Detection_System_using_Gaussian_Mixture_Variational_Autoencoder.pdf)*
 5. 제어 가능한 한국어 자연어 생성 모델. 김은총, 정민수, 전현규, 정윤경. 한국정보과학회 KCC 2021.06.23-25.<br>*[PDF](/assets/files/Korean_Controllable_Generation_Model.pdf)*
