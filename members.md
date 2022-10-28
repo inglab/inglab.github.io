@@ -37,7 +37,7 @@ sitemap: false
 <h2 class="hr-bottom">Alumni</h2>
 <h3>Former Post-doctoral Fellows</h3>
 
-- **최태종** (경일대학교 조교수)
+- **최태종** (전남대학교 조교수)
 
 <h3>Former Doctoral Students</h3>
 
