@@ -108,8 +108,8 @@ sitemap: false
 
 ### Domestic Papers
 1. Building Autoencoder Models for Detecting Real Network Attacks. 장지호, 임동준, 성창민, 이종훈, 박종근, 정윤경. 한국인공지능학회 추계학술대회 2022.11.18 <br>*[PDF](/assets/files/학술대회_JKAIA2022_Building_Autoencoder_Models_for_Detecting_Real_Network_Attacks(장지호).pdf)*
-2. Can Language Model Learn Ethics? Predicting Characters’ Morality by Learning Character Embedding. 배수영, 김은총, 정윤경. 한국인공지능학회 추계학술대회 2022.11.18 <br>*[PDF](/assets/files/학술대회_JKAIA2022_Learning Character Embedding(배수영).pdf)*
-3. Learning scene representation using character-centered graph. 김은총, 정윤경. 한국인공지능학회 추계학술대회 2022.11.18 <br>*[PDF](/assets/files/학술대회_Learning Scene Representation using Character-Centered Graph(김은총).pdf)*
+2. Can Language Model Learn Ethics? Predicting Characters’ Morality by Learning Character Embedding. 배수영, 김은총, 정윤경. 한국인공지능학회 추계학술대회 2022.11.18  <br>*[PDF](/assets/files/학술대회_JKAIA2022_Learning Character Embedding(배수영).pdf)*
+3. Learning scene representation using character-centered graph. 김은총, 정윤경. 한국인공지능학회 추계학술대회 2022.11.18  <br>*[PDF](/assets/files/학술대회_Learning Scene Representation using Character-Centered Graph(김은총).pdf)*
 4. 인과 추론 문제 해결에 적합한 자연어 처리 모델 BART 분석. 조건희, 성창민, 김은총, 정윤경. 한국정보과학회 KCC 2022.06.29-07.01.<br>*[PDF](/assets/files/논문_비SCI_국내2022 정윤경 인과 추론 문제 해결에 적합한 자연어 처리 모델 BART 분석.pdf)*
 5. 멀티 도메인 대화 데이터 셋을 사용한 문서 검색 모델 성능 개선. 배수영, 김은총, 정윤경. 한국정보과학회 KCC 2022.06.29-07.01.<br>*[PDF](/assets/files/논문_비SCI_국내2022_정윤경 멀티 도메인 대화 데이터 셋을 사용한 문서 검색 모델.pdf)*
 6. 인물 정보 태그를 활용한 드라마 영상의 이미지 캡셔닝 성능 개선. 김현주, 조진욱, 현지웅, 정윤경. 한국정보과학회 KCC 2021.06.23-25. (AWARDED) <br>*[PDF](Quality_Improvement_of_Image_Captions_for_Cinematic_Video.pdf)*
