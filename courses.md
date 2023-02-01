@@ -4,7 +4,7 @@ sitemap: false
 ---
 
 <h3> 2023 Fall </h3> 
-- Natural Language Processing 
+- Intelligent Storytelling
 - Fundamentals of Natural Language Processing *(Graduate)*
 
 
