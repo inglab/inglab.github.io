@@ -3,14 +3,37 @@ layout: base
 sitemap: false
 ---
 
-<h3> 2021 Spring </h3>
+### 2023 Fall 
+- Natural Language Processing 
+- Fundamentals of Natural Language Processing *(Graduate)*
+
+
+### 2023 Spring 
+- Computer Programming for Engineers
+- AI Theory & Algorithm *(Graduate)*
+
+
+### 2022 Fall 
+- Natural Language Processing 
+- Natural Language Processing Theory and Applications *(Graduate)*
+
+
+### 2022 Spring 
+- Computer Programming for Engineers
+- AI Theory & Algorithm *(Graduate)*
+
+### 2021 Fall 
+- Natural Language Processing 
+- Natural Language Processing Theory and Applications *(Graduate)*
+
+### 2021 Spring 
 - Computer Programming for Engineers
 - AI Theory & Algorithm *(Graduate)*
 
 ### 2020 Fall
 - Computer Programming for Engineers
 - AI Theory & Algorithm *(Graduate)*
-- Advanced NLP *(Graduate)*
+- Natural Language Processing Theory and Applications *(Graduate)*
 
 ### 2020 Spring
 - Computer Programming for Engineers
