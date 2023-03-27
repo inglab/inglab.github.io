@@ -30,6 +30,8 @@ sitemap: false
 
 
 ### International Papers
+#### 2023
+1. Suyoung Bae,  Eunchong Kim, Yun-Gyung Cheong. 2023. Bigcomp 2023 : Predicting the Morality of a Character Using Character-Centric Embeddings, Jeju, Republic of Korea.
 #### 2022
 1. Eunchong Kim, Taewoo Yoo, Gunhee Cho, Suyoung Bae, and Yun-Gyung Cheong. 2022. The CreativeSumm 2022 Shared Task: A Two-Stage Summarization Model using Scene Attributes. In Proceedings of The Workshop on Automatic Summarization for Creative Writing, pages 51–56, Gyeongju, Republic of Korea. Association for Computational Linguistics.<br>*[link](https://aclanthology.org/2022.creativesumm-1.8)*&nbsp;
 1. JinUk Cho, MinSu Jeong, JinYeong Bak, and Yun-Gyung Cheong. 2022. Genre-Controllable Story Generation via Supervised Contrastive Learning. In Proceedings of the ACM Web Conference 2022 (WWW ’22), April 25–29, 2022, Virtual Event, Lyon, France. ACM, New York, NY, USA, 11 pages. <br>*[PDF](https://dl.acm.org/doi/10.1145/3485447.3512004)*
