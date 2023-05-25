@@ -53,14 +53,12 @@ sitemap: false
 1. Seo-Hui Park, Byung-Chull Bae, Yun-Gyung Cheong. Emotion Recognition from Text Stories Using an Emotion Embedding Model. The First Workshop on Multimodal, Expeditive, Generative and Actionable AI (MEGA AI) 2020 (Co-located with BigComp 2020), Busan, South Korea, 2020.2.19.
 1. Jiwung Hyun, Byung-Chull Bae, Yun-Gyung Cheong, Multi-label Text Classification Using an Emotion Embedding Model, 3rd Workshop on Affective Content Analysis, Proceedings of the 3rd Workshop on Affective Content Analysis (AffCon 2020) co-located with Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI 2020), New York, USA, February 7, 2020.<br>*[AffCon2020](http://ceur-ws.org/Vol-2614/)*
 
-#### 2019
+#### Previous
 <!-- 2-techworld, 4-pdf -->
 1. Emotion-based Story Event Clustering. Hye-Yeon Yu, Seohui Park, Yun-Gyung Cheong, Moon-Hyun Kim, and Byung-Chull Bae. ICIDS 2019. Utah, U.S.A.
 1. Prediction of a Movie's Success From Plot Summaries Using Deep Learning. Yujin-Kim, Jung-Hoon Lee, Yun-Gyung Cheong. Storytelling Workshop 2019 August 1, 2019. Florence, Italy (Co-located with ACL 2019).<br>*[techworld](https://www.computerworld.com/article/3558569/culture-crossover-researchers-use-ai-to-predict-a-film-s-success.html)*&nbsp;&nbsp;*[AAAS Science](https://www.sciencemag.org/news/2019/08/artificial-intelligence-predicts-which-movies-will-succeed-and-fail-simply-plot)*&nbsp;&nbsp;*[TECH TIMES](https://www.techtimes.com/articles/244903/20190805/artificial-intelligence-can-predict-whether-a-movie-will-succeed-or-fail-at-the-box-office.htm)*
 1. Ahn DK., Cheong YG., Bae BC. (2019) Design Considerations for Developing a Mobile Storytelling Game Application. In: Stephanidis C., Antona M. (eds) HCI International 2019 – Late Breaking Posters. HCII 2019. Communications in Computer and Information Science, vol 1088. pp. 3-8. Springer, Cham<br>*[link](https://link.springer.com/book/10.1007/978-3-030-30712-7)*
 1. Modeling Happiness Using One-Class Autoencoders. Yun Gyung Cheong, Youngrok Song, and Byung-Chull Bae. AffCon2019 workshop at AAAI 2019 (workshop paper), Honolulu, USA, 27, Jan. - 1, Feb., 2019.<br>*[PDF](http://ceur-ws.org/Vol-2328/Session4_Poster6_CLAFF_AffCon2019_paper_31.pdf)*&nbsp;&nbsp;*[fast_forward PDF](https://github.com/inglab/affcon2019)*&nbsp;&nbsp;*[AffCon2019](http://ceur-ws.org/Vol-2328/)*
-
-#### Previous
 <!-- 8-link, 17-pdf -->
 1. A Demonstration of an Intelligent Storytelling System. Yun-Gyung Cheong, Woo-Hyun Park, Hye-Yeon Yu. ACM Multimedia 2018 , Seoul, South Korea, 22-26, October, 2018 (Demo paper).<br>*[link](https://dl.acm.org/doi/10.1145/3240508.3241396)*
 1. Classification of Attack Types for Intrusion Detection Systems using a Machine Learning Algorithm, Kinam Park, Youngrok Song, Yun-Gyung Cheong. IEEE International Workshop on Big Ddata Security and Services in Conjunction With IEEE BIGDATASERVICE 2018. 26, March, 2018. Bamberg, Germany.
