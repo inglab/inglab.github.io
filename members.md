@@ -43,6 +43,7 @@ sitemap: false
   - Research Interests: 
 
 <h3>Undergraduate Students</h3>
+
 - **김홍구**
   - Major: 소프트웨어학과
   - Email: redba11@g.skku.edu
