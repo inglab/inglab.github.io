@@ -10,7 +10,7 @@ sitemap: false
   - Major: 소프트웨어학과 - 인공지능학과
   - Email: skate4333@g.skku.edu
   - Homepage: 
-  - Research Interests: Multi-modal, Story Generation
+  - Research Interests: Multi-modal, Story generation
  
 - **유태우** 
   - Major: 소프트웨어학과 - 인공지능학과
@@ -22,7 +22,7 @@ sitemap: false
   - Major: 소프트웨어학과 - 인공지능학과
   - Email: sybae01@naver.com
   - Homepage: https://www.linkedin.com/in/suyoung99/
-  - Research Interests: Character Embedding, Story Generation
+  - Research Interests: Character embedding, Story generation
  
 - **임동준**
   - Major: 소프트웨어학과 - 인공지능학과
@@ -39,8 +39,8 @@ sitemap: false
 - **강민우**
   - Major: 소프트웨어학과 - 인공지능학과
   - Email: skydnk4332@skku.edu
-  - Homepage:
-  - Research Interests: 
+  - Homepage: https://github.com/minw-kang
+  - Research Interest: Text generation, Sentiment analysis
 
 <h3>Undergraduate Students</h3>
 
@@ -48,7 +48,7 @@ sitemap: false
   - Major: 소프트웨어학과
   - Email: redba11@g.skku.edu
   - Homepage:
-  - Research Interests: 
+  - Research Interests: Story Generation for Game
 
 
 - **우지은**
@@ -65,7 +65,7 @@ sitemap: false
   
 - **이재빈** 
   - Major: 건축공학과-소프트웨어학과
-  - Email: 
+  - Email: woqls2323@g.skku.edu
   - Homepage:
   - Research Interests: 
 
