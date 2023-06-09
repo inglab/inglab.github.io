@@ -12,7 +12,7 @@ sitemap: false
   - Homepage: 
   - Research Interests: Multi-modal, Story Generation
  
-- -**유태우** 
+- **유태우** 
   - Major: 소프트웨어학과 - 인공지능학과
   - Email: woo990307@naver.com
   - Homepage:
