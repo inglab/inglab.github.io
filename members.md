@@ -5,19 +5,75 @@ sitemap: false
 
 <h2 class="hr-bottom">Current members</h2>
 <h3>Masters Students</h3>
-- **유태우** (소프트웨어 - 인공지능학과)
-- **조건희** (소프트웨어 - 인공지능학과)
-- **배수영** (소프트웨어 - 인공지능학과)
-- **임동준** (소프트웨어학과)
-- **장지호** (소프트웨어학과)
-- **강민우** (소프트웨어학과)
 
+- **조건희** 
+  - Major: 소프트웨어학과 - 인공지능학과
+  - Email: skate4333@g.skku.edu
+  - Homepage: 
+  - Research Interests: Multi-modal, Story Generation
+ 
+- -**유태우** 
+  - Major: 소프트웨어학과 - 인공지능학과
+  - Email: woo990307@naver.com
+  - Homepage:
+  - Research Interests: 
+ 
+- **배수영**
+  - Major: 소프트웨어학과 - 인공지능학과
+  - Email: sybae01@naver.com
+  - Homepage: https://www.linkedin.com/in/suyoung99/
+  - Research Interests: Character Embedding, Story Generation
+ 
+- **임동준**
+  - Major: 소프트웨어학과 - 인공지능학과
+  - Email: flamecracker1220@gmail.com
+  - Homepage:
+  - Research Interests: 
+  
+- **장지호**
+  - Major: 소프트웨어학과 - 인공지능학과
+  - Email: zyoa@skku.edu
+  - Homepage:
+  - Research Interests: 
+  
+- **강민우**
+  - Major: 소프트웨어학과 - 인공지능학과
+  - Email: skydnk4332@skku.edu
+  - Homepage:
+  - Research Interests: 
 
 <h3>Undergraduate Students</h3>
-- **김홍구** (소프트웨어학과)
-- **우지은** (소프트웨어학과)
-- **김태환** (소프트웨어학과)
-- **이재빈** (건축공학과-소프트웨어학과)
+- **김홍구**
+  - Major: 소프트웨어학과
+  - Email: redba11@g.skku.edu
+  - Homepage:
+  - Research Interests: 
+
+
+- **우지은**
+  - Major: 소프트웨어학과
+  - Email: wjieun@g.skku.edu
+  - Homepage:
+  - Research Interests: 
+  
+- **김태환**
+  - Major: 소프트웨어학과
+  - Email: 
+  - Homepage:
+  - Research Interests: 
+  
+- **이재빈** 
+  - Major: 건축공학과-소프트웨어학과
+  - Email: 
+  - Homepage:
+  - Research Interests: 
+
+- **이재빈** 
+  - Major:
+  - Email: 
+  - Homepage:
+  - Research Interests: 
+
 
 <br>
 <h2 class="hr-bottom">Dissertation Advising</h2>
