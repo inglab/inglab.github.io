@@ -34,7 +34,7 @@ sitemap: false
   - Major: 소프트웨어학과 - 인공지능학과
   - Email: zyoa@skku.edu
   - Homepage:
-  - Research Interests: 
+  - Research Interests: Cotrollable Stroy Generation, Open-world Story Generation
   
 - **강민우**
   - Major: 소프트웨어학과 - 인공지능학과
