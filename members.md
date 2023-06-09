@@ -70,7 +70,7 @@ sitemap: false
   - Research Interests: 
 
 - **김지원** 
-  - Major:
+  - Major: 컬처앤테크놀로지융합전공-인공지능융합전공
   - Email: 
   - Homepage:
   - Research Interests: 
