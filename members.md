@@ -69,7 +69,7 @@ sitemap: false
   - Homepage:
   - Research Interests: 
 
-- **이재빈** 
+- **김지원** 
   - Major:
   - Email: 
   - Homepage:
