@@ -71,9 +71,9 @@ sitemap: false
 
 - **김지원** 
   - Major: 컬처앤테크놀로지융합전공-인공지능융합전공
-  - Email: 
-  - Homepage:
-  - Research Interests: 
+  - Email: mamapapai@g.skku.edu
+  - Homepage: https://github.com/kimcorn02
+  - Research Interests: Game AI
 
 
 <br>
