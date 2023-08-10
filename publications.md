@@ -32,8 +32,9 @@ sitemap: false
 
 ### International Papers
 #### 2023
+1. Bae, BC., Kim, Y., Yu, M., Park, S., Kim, Y., Cheong, YG. (2023). Toward an AI-Collaborated Authoring Tool for Writing Flash Fiction. In: Stephanidis, C., Antona, M., Ntoa, S., Salvendy, G. (eds) HCI International 2023 Posters. HCII 2023. Communications in Computer and Information Science, vol 1836. Springer, Cham. https://doi.org/10.1007/978-3-031-36004-6_51.<br>*[link](https://link.springer.com/chapter/10.1007/978-3-031-36004-6_51#citeas)*&nbsp;
 1. Suyoung Bae,  Eunchong Kim, Yun-Gyung Cheong. 2023. Predicting the Morality of a Character Using Character-Centric Embeddings, Jeju, Republic of Korea. (Bigcomp 2023)
-2. ChangMin Seong, Jiho Jang, Dongjun Lim, Yun-Gyung Cheong. Multivariate Time Series Anomaly Detection with Deep Learning Models Leveraging Inter-Variable Relationships (SVCC2023)(Silicon Valley Cybersecurity Conference 2023)
+1. C. Seong, D. Lim, J. Jang, J. Lee, J. -G. Park and Y. -G. Cheong, "Multivariate Time Series Anomaly Detection with Deep Learning Models Leveraging Inter-Variable Relationships," 2023 Silicon Valley Cybersecurity Conference (SVCC), San Jose, CA, USA, 2023, pp. 1-8, doi: 10.1109/SVCC56964.2023.10165468.<br>*[link](https://ieeexplore.ieee.org/document/10165468)*&nbsp;
 #### 2022
 1. Eunchong Kim, Taewoo Yoo, Gunhee Cho, Suyoung Bae, and Yun-Gyung Cheong. 2022. The CreativeSumm 2022 Shared Task: A Two-Stage Summarization Model using Scene Attributes. In Proceedings of The Workshop on Automatic Summarization for Creative Writing, pages 51–56, Gyeongju, Republic of Korea. Association for Computational Linguistics.<br>*[link](https://aclanthology.org/2022.creativesumm-1.8)*&nbsp;
 1. JinUk Cho, MinSu Jeong, JinYeong Bak, and Yun-Gyung Cheong. 2022. Genre-Controllable Story Generation via Supervised Contrastive Learning. In Proceedings of the ACM Web Conference 2022 (WWW ’22), April 25–29, 2022, Virtual Event, Lyon, France. ACM, New York, NY, USA, 11 pages. <br>*[PDF](https://dl.acm.org/doi/10.1145/3485447.3512004)*
