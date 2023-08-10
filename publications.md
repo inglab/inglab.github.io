@@ -42,7 +42,7 @@ sitemap: false
 
 #### 2021
 1. Towards Building Intrusion Detection Systems for Multivariate Time Series Data. ChangMin Seong, YoungRok Song, Jiwung Hyun, Yun-Gyung Cheong. Silicon Valley Cybersecurity Conference 2021 (SVCC 2021), December 3-4, 2021.<br>*[PDF](/assets/files/Towards Building Intrusion Detection Systems for Multivariate Time Series Data.pdf)*
-1. Developing a Ophthalmic Chatbot System, Jung Hoon Lee, Min Su Jeong, Jin Uk Cho, Hyun Kyu Jeon, Jong Hyeok Park, Kyoung Deok Shin, Su Jeong Song, Yun-Gyung Cheong. IMCOM 2021.
+1. J. H. Lee et al., "Developing a Ophthalmic Chatbot System," 2021 15th International Conference on Ubiquitous Information Management and Communication (IMCOM), Seoul, Korea (South), 2021, pp. 1-7, doi: 10.1109/IMCOM51814.2021.9377398.*[linkk](https://ieeexplore.ieee.org/document/9377398)*
 1. A Peer Learning Method for Building Robust Text Classification Models. Hyun-Kyu Jeon, Yun-Gyung Cheong. The Second Workshop on Multimodal, Expeditive, Generative and Actionable AI (MEGA AI 2021). January 20, 2021, Jeju Island, Korea.
 
 #### 2020
