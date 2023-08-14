@@ -152,7 +152,8 @@ sitemap: false
 
 
 ### US Patents
-1. Prediction of Media Succdess from Polot Summaries Using Machine Learning Model. Yujin-Kim, Jung-Hoon Lee, Yun-Gyung Cheong. U.S. Patent US 17/134,581, filed on December 28, 2020.
+1. Prediction of Media Success from Polot Summaries Using Machine Learning Model. Yujin-Kim, Jung-Hoon Lee, Yun-Gyung Cheong. U.S. Patent number: 11,630,950 B2, Registered on Apr. 18, 2023.
+1. TIME SERIES ANOMALY DETECTION METHOD USING GRU-BASED MODEL. Chang Min Seung, Yun-Gyung Cheong. U.S. Patent number: 18/098,777, filed on Jan. 19, 2023. 
 1. Storage medium, apparatus, and method to author and play interactive content. Kim; Yeo-Jin, Cheong;  Yun-Gyung, Shim; Eok-Soo, Min; Wook-Hee. U.S. Patent number: 9,268,774, Registered on February 23, 2016.
 1. Apparatus and method for generating probabilistic graphical model based on time-space structure. Yeo-Jin Kim, Byoung-Tak, Byung-Chull Bae, Hyun-Jin Choi, Yun-Gyung Cheong, Young-Sang Choi. U.S. Patent number: 8,645,307, Registered on February 4, 2014.
 1. Apparatus and Method for Providing Digital Content. Yeo-Jin Kim, Yun-Gyung Cheong. U.S. Patent number: 8,386,933, Registered on February 26, 2013.
@@ -162,20 +163,21 @@ sitemap: false
 ### Korean Patents
 
 #### Registered
-1. 임베딩 기반의 인과 관계 탐지 및 추출 방법. 정윤경.<br>*Application No: 10-2019-0019985 (2019.02.20)*<br>*Registration No: 10-2203895 (2021.01.11)*
-1. 스토리 생성 장치 및 스토리 생성 방법. 정윤경, 유혜연.<br>*Application No: 10-2017-0030476 (2017.3.10)*<br>*Registration No: 10-1926146 (2018.11.30)*
-1. 시공간 구조 기반의 확률 그래프 모델 학습 장치 및 방법. 김여진 장병탁 배병철 최현진 정윤경 최영상. Apparatus and method for generating probabilistic graphical model based on time- space structure. Yeo-Jin Kim, Byoung-Tak, Byung-Chull Bae, Hyun-Jin Choi, Yun- Gyung Cheong, Young-Sang Choi.<br>*Application number: 1020100078012 (2010.08.12)*<br>*Registration No: 1016725000000 (2016.10.28)*
-1. 데이터 처리 장치 및 방법 (Data Processing Apparatus and Method). Yun-Gyung Cheong.<br>*Application No: 10-2009-0087926 (2009.09.17)*<br>*Registration No: 1016157070000 (2016.04.20)*
-1. 인터랙티브 컨텐츠 구성을 위한 데이터 처리 장치, 그 방법 및 기록매체 (Data Processing Apparatus and Method for Constructing Interactive Contents and Recording Media). Yun-Gyung Cheong.<br>*Application number: 1020080100630 (2008.10.14)*<br>*Registration number: 1015215950000 (2015.05.13)*
-1. 콘텐츠 제공 장치 및 그 방법 (Apparatus and Method for Providing Contents). Yeo-Jin Kim, Yun-Gyung Cheong.<br>*Application No: 1020080076202 (2008.08.04)*<br>*Registration No: 1015159630000 (2015.04.22)*
+1. 다중 검색  방식을 이용한 한국어 의료 챗봇 시스템. 정민수, 정윤경. <br>*Application No: 10-2020-0134630 (2020.10.16), Registration No: 10-2445841 (2022-09-16)*
+1. 임베딩 기반의 인과 관계 탐지 및 추출 방법. 정윤경.<br>*Application No: 10-2019-0019985 (2019.02.20), Registration No: 10-2203895 (2021.01.11)*
+1. 감정점수를 활용한 시퀀스-투-시퀀스 기반의 텍스트 요약. 김유진, 정윤경.<br>*Application No: 10-2019-0179964 (2019.12.31), Registration No: 10-2348689 (2022.01.04)*
+1. 줄거리를 통한 머신러닝 기반의 미디어 흥행 예측. 김유진, 정윤경.<br>*Application No: 10-2019-0179963 (2019.12.31), Registration No: 10-2296154 (2021.08.25)*
+1. 딥러닝 알고리즘을 이용한 비지도 방식의 네트워크 침입 탐지 방법 및 이를 실행하기 위한 프로그램이 기록된 기록매체. 정윤경, 김동민. <br>*Application No: 10-2018-0171484 (2018.12.28), Registration No: 10-2279983 (2021.07.15)*
+1. 이미지 학습을 이용한 텍스트 필터링 방법 및 장치. 유주연, 정윤경.<br>*Application No: 10-2019-0179915 (2019.12.31), Registration No: 10-2244982 (2021.04.21)*
+1. 스토리 생성 장치 및 스토리 생성 방법. 정윤경, 유혜연.<br>*Application No: 10-2017-0030476 (2017.3.10), Registration No: 10-1926146 (2018.11.30)*
+1. 시공간 구조 기반의 확률 그래프 모델 학습 장치 및 방법. 김여진 장병탁 배병철 최현진 정윤경 최영상. Apparatus and method for generating probabilistic graphical model based on time- space structure. Yeo-Jin Kim, Byoung-Tak, Byung-Chull Bae, Hyun-Jin Choi, Yun- Gyung Cheong, Young-Sang Choi.<br>*Application number: 1020100078012 (2010.08.12), Registration No: 1016725000000 (2016.10.28)*
+1. 데이터 처리 장치 및 방법 (Data Processing Apparatus and Method). Yun-Gyung Cheong.<br>*Application No: 10-2009-0087926 (2009.09.17), Registration No: 1016157070000 (2016.04.20)*
+1. 인터랙티브 컨텐츠 구성을 위한 데이터 처리 장치, 그 방법 및 기록매체 (Data Processing Apparatus and Method for Constructing Interactive Contents and Recording Media). Yun-Gyung Cheong.<br>*Application number: 1020080100630 (2008.10.14), Registration number: 1015215950000 (2015.05.13)*
+1. 콘텐츠 제공 장치 및 그 방법 (Apparatus and Method for Providing Contents). Yeo-Jin Kim, Yun-Gyung Cheong.<br>*Application No: 1020080076202 (2008.08.04), Registration No: 1015159630000 (2015.04.22)*
 
 #### Applicated
 1. Multi-class 데이터 잠재공간 분리를 위한 오토인코더 모델. 송영록, 정윤경.<br>*Application No: 10-2020-0163962 (2020.11.01)*
-1. 다중 검색 방식을 이용한 한국어 의료 챗봇 시스템. 정민수, 정윤경.<br>*Application No: 10-2020-0134630 (2020.10.16)*
 1. 의료 챗봇 시스템 및 이를 구동하는 방법. 정민수, 이정훈, 박종혁, 조진욱,전현규, 신경덕, 정윤경.<br>*Application No: 10-2020-0131571 (2020.10.13)*
-1. 감정점수를 활용한 시퀀스-투-시퀀스 기반의 텍스트 요약. 김유진, 정윤경.<br>*Application No: 10-2019-0179964 (2019.12.31)*
-1. 이미지 학습을 이용한 텍스트 필터링 방법 및 장치. 유주연, 정윤경.<br>*Application No: 10-2019-0179915 (2019.12.31)*
-1. 줄거리를 통한 머신러닝 기반의 미디어 흥행 예측. 김유진, 정윤경.<br>*Application No: 10-2019-0179963 (2019.12.31)*
 1. 가짜 리뷰 판별을 위한 분류 모델 선정 방법. CLASSIFICATION MODEL SELECTION METHOD FOR DISCRIMINATING FAKE REVIEW. 정윤경, 이범진, 김동욱, 강지우, 송이현, 이석범.<br>*Application number:10-2018-0047048 (2018).04.24*
 1. 딥러닝 알고리즘을 이용한 비지도 방식의 네트워크 침입 탐지 방법 및 이를 실행하기 위한 프로그램이 기록된 기록매체. Network Intrusion Detection Method using unsupervised deep learning algorithms and Computer Readable Recording Medium on which program therefor is recorded. 정윤경, 김동민.    <br>*Application No: 10-2018-0171484 (2018.12.28).*
     > 본 발명은 딥러닝 알고리즘을 이용한 비지도 방식의 네트워크 침입 탐지 방 법 및 이를 실행하기 위한 프로그램이 기록된 기록매체에 관한 것이다.
