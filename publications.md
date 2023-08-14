@@ -8,7 +8,7 @@ sitemap: false
 
 ### Thesis Papers
 1. A Computational Model of Narrative Generation for Suspense, PhD dissertation in summer of 2007.*[PDF](/assets/files/etd.pdf)*&nbsp;&nbsp;*[link](http://www.lib.ncsu.edu/theses/available/etd-05082007-153732/)*
-1. A Study on Tracking and Predicting the Face Trajectories Using Neural Network, Master degree thesis at Sungkyunkwan University, 1997.&nbsp*[PS (written in Korean)](/assets/files/master-thesis.ps)*
+1. A Study on Tracking and Predicting the Face Trajectories Using Neural Network, Master degree thesis at Sungkyunkwan University, 1997.&nbsp;*[PS (written in Korean)](/assets/files/master-thesis.ps)*
 
 
 ### Journal Articles
