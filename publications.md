@@ -176,7 +176,11 @@ sitemap: false
 1. 콘텐츠 제공 장치 및 그 방법 (Apparatus and Method for Providing Contents). Yeo-Jin Kim, Yun-Gyung Cheong.<br>*Application No: 1020080076202 (2008.08.04), Registration No: 1015159630000 (2015.04.22)*
 
 #### Filed
-1. Multi-class 데이터 잠재공간 분리를 위한 오토인코더 모델. 송영록, 정윤경.<br>*Application No: 10-2020-0163962 (2020.11.01)*
+1. 언어 모델을 학습시키는 방법, 언어 모델을 이용한 제어된 이야기 생성 방법 및 이를 이용한 처리 장치. 조진욱, 정윤경. &nbsp;*Application No:10-2023-0012797 (2023.1.31)*
+1. 언어모델을 사용한 이야기 생성 방법. 김현주, 정윤경. &nbsp;*Application No:10-2022-0140073 (2022.10.27)*
+1. GRU 기반 모델을 사용한 시계열 이상치 탐지 방법. 성창민, 정윤경.  &nbsp;*Application No:10-2022-0096757 (2022.08.03)*
+1. 분류 모델에 기반하여 바꿔 쓰기 모델을 학습하는 방법, 바꿔 쓰기 모델을 이용한 텍스트 데이터의 증강 방법 및 이를 이용한 텍스트 처리 장치. 전현규, 정윤경.  &nbsp;*Application No: 10-2021-0182704 (2021.12.20)*
+1. Multi-class 데이터 잠재공간 분리를 위한 오토인코더 모델. 송영록, 정윤경.&nbsp;*Application No: 10-2020-0163962 (2020.11.01)*
 1. 의료 챗봇 시스템 및 이를 구동하는 방법. 정민수, 이정훈, 박종혁, 조진욱,전현규, 신경덕, 정윤경.<br>*Application No: 10-2020-0131571 (2020.10.13)*
 1. 가짜 리뷰 판별을 위한 분류 모델 선정 방법. CLASSIFICATION MODEL SELECTION METHOD FOR DISCRIMINATING FAKE REVIEW. 정윤경, 이범진, 김동욱, 강지우, 송이현, 이석범.<br>*Application number:10-2018-0047048 (2018).04.24*
 1. 감정 수치화 및 이를 이용한 클라이맥스 예측 장치 및 방법. APPARATUS AND METHOD FOR DIGITIZING SENTIMENT AND PREDICTING CLIMAX USING THE SAME.<br>*Application No: 1020170021248 (2017.02.16)*
