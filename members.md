@@ -62,12 +62,6 @@ sitemap: false
   - Email: 
   - Homepage:
   - Research Interests: 
-  
-- **이재빈** 
-  - Major: 건축공학과-소프트웨어학과
-  - Email: woqls2323@g.skku.edu
-  - Homepage:
-  - Research Interests: 
 
 - **김지원** 
   - Major: 컬처앤테크놀로지융합전공-인공지능융합전공
