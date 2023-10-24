@@ -33,7 +33,7 @@ sitemap: false
 
 ### International Papers
 #### 2023
-1. Bae, BC., Kim, Y., Yu, M., Park, S., Kim, Y., Cheong, YG. (2023). Toward an AI-Collaborated Authoring Tool for Writing Flash Fiction. In: Stephanidis, C., Antona, M., Ntoa, S., Salvendy, G. (eds) HCI International 2023 Posters. HCII 2023. Communications in Computer and Information Science, vol 1836. Springer, Cham. https://doi.org/10.1007/978-3-031-36004-6_51.&nbsp;*[link](https://link.springer.com/chapter/10.1007/978-3-031-36004-6_51#citeas)*&nbsp;
+1. Bae, BC., Kim, Y., Yu, M., Park, S., Kim, Y., Cheong, YG. (2023). Toward an AI-Collaborated Authoring Tool for Writing Flash Fiction. In: Stephanidis, C., Antona, M., Ntoa, S., Salvendy, G. (eds) HCI International 2023 Posters. HCII 2023. Communications in Computer and Information Science, vol 1836. Springer, Cham. https://doi.org/10.1007/978-3-031-36004-6_51.&nbsp;*[link](https://link.springer.com/chapter/10.1007/978-3-031-36004-6_51)*&nbsp;
 1. S. Y. Bae, E. C. Kim and Y. G. Cheong, "Extended Abstract: Predicting the Morality of a Character Using Character-Centric Embeddings," 2023 IEEE International Conference on Big Data and Smart Computing (BigComp), Jeju, Korea, Republic of, 2023, pp. 345-346, doi: 10.1109/BigComp57234.2023.00076.&nbsp;*[link](https://ieeexplore.ieee.org/document/10066592)*&nbsp;
 1. C. Seong, D. Lim, J. Jang, J. Lee, J. -G. Park and Y. -G. Cheong, "Multivariate Time Series Anomaly Detection with Deep Learning Models Leveraging Inter-Variable Relationships," 2023 Silicon Valley Cybersecurity Conference (SVCC), San Jose, CA, USA, 2023, pp. 1-8, doi: 10.1109/SVCC56964.2023.10165468.&nbsp;*[link](https://ieeexplore.ieee.org/document/10165468)*&nbsp;
 #### 2022
