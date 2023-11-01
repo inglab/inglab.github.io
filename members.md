@@ -4,13 +4,16 @@ sitemap: false
 ---
 
 <h2 class="hr-bottom">Current members</h2>
-<h3>Masters Students</h3>
+
+<h3>PhD students</h3>  
 
 - **조건희** 
   - Major: 소프트웨어학과 - 인공지능학과
   - Email: skate4333@g.skku.edu
   - Homepage: 
   - Research Interests: Multi-modal, Story generation
+
+<h3>MS students</h3>
  
 - **유태우** 
   - Major: 소프트웨어학과 - 인공지능학과
@@ -49,7 +52,6 @@ sitemap: false
   - Email: redba11@g.skku.edu
   - Homepage:
   - Research Interests: Story Generation for Game
-
 
 - **우지은**
   - Major: 소프트웨어학과
