@@ -13,6 +13,7 @@ sitemap: false
 
 ### Journal Articles
 <!-- 4-pdf, 5-link -->
+1. Comparing generative and retrieval-based chatbots in answering patient questions regarding age-related macular degeneration and diabetic retinopathy. British Journal of Ophthalmology (To appear). 
 1. Evaluating Unsupervised Deep Learning Models for Network Intrusion Detection Using Real Security Event Data. Jiho Jang, Dongjun Lim, Changmin Seong, JongHun Lee, Jong-Geun Park, Yun-Gyung Cheong. International Journal of Advanced Smart Convergence Vol.11 No.4 10-19 (2022). &nbsp;*[link](http://koreascience.or.kr/article/JAKO202203059230653.view)*
 1.  Song Y, Hyun S, Cheong Y-G. Analysis of Autoencoders for Network Intrusion Detection. Sensors. 2021; 21(13):4294. https://doi.org/10.3390/s21134294 (IF 3.9) &nbsp;*[link](https://www.mdpi.com/1424-8220/21/13/4294)*
 1. Tae Jong Choi, Julian Togelius, Yun-Gyung Cheong, A Fast and Efficient Stochastic Opposition-Based Learning for Differential Evolution in Numerical Optimization, Swarm and Evolutionary Computation (2021) (IF 10). &nbsp;*[link](https://www.sciencedirect.com/science/article/pii/S2210650220304211?via%3Dihub#!)*
