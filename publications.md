@@ -33,6 +33,8 @@ sitemap: false
 
 
 ### International Papers
+#### 2024
+1. Youngrok Song, Gunhee Cho, HyunJu Kim, Youngjune Kim, Byung-Chull Bae, Yun-Gyung Cheong. A Conflict-Embedded Narrative Generation Using Commonsense Reasoning. IJCAI 2024 AI, Arts & Creativity Track (To appear).
 #### 2023
 1. Bae, BC., Kim, Y., Yu, M., Park, S., Kim, Y., Cheong, YG. (2023). Toward an AI-Collaborated Authoring Tool for Writing Flash Fiction. In: Stephanidis, C., Antona, M., Ntoa, S., Salvendy, G. (eds) HCI International 2023 Posters. HCII 2023. Communications in Computer and Information Science, vol 1836. Springer, Cham. https://doi.org/10.1007/978-3-031-36004-6_51.&nbsp;*[link](https://link.springer.com/chapter/10.1007/978-3-031-36004-6_51)*&nbsp;
 1. S. Y. Bae, E. C. Kim and Y. G. Cheong, "Extended Abstract: Predicting the Morality of a Character Using Character-Centric Embeddings," 2023 IEEE International Conference on Big Data and Smart Computing (BigComp), Jeju, Korea, Republic of, 2023, pp. 345-346, doi: 10.1109/BigComp57234.2023.00076.&nbsp;*[link](https://ieeexplore.ieee.org/document/10066592)*&nbsp;
