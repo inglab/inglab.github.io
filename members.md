@@ -10,8 +10,8 @@ sitemap: false
 - **조건희** 
   - Major: 소프트웨어학과 - 인공지능학과
   - Email: skate4333@g.skku.edu
-  - Homepage: 
-  - Research Interests: Multi-modal, Story generation
+  - Homepage: [github.com/Gunhee-Cho](https://github.com/Gunhee-Cho)
+  - Research Interests: Multi-Agent Simulation, Multi-Agent Story Generation
 
 <h3>MS students</h3>
  
@@ -19,19 +19,13 @@ sitemap: false
   - Major: 소프트웨어학과 - 인공지능학과
   - Email: woo990307@naver.com
   - Homepage:
-  - Research Interests: 
- 
-- **배수영**
-  - Major: 소프트웨어학과 - 인공지능학과
-  - Email: sybae01@naver.com
-  - Homepage: https://www.linkedin.com/in/suyoung99/
-  - Research Interests: Character embedding, Story generation
+  - Research Interests: Story Generation, Multi-Agent System, Game AI
  
 - **임동준**
   - Major: 소프트웨어학과 - 인공지능학과
   - Email: flamecracker1220@gmail.com
-  - Homepage:
-  - Research Interests: 
+  - Homepage: [github.com/flamecracker](https://github.com/flamecracker)
+  - Research Interests: Emotion, Sentiment Analysis 
   
 - **장지호**
   - Major: 소프트웨어학과 - 인공지능학과
@@ -42,34 +36,58 @@ sitemap: false
 - **강민우**
   - Major: 소프트웨어학과 - 인공지능학과
   - Email: skydnk4332@skku.edu
-  - Homepage: https://github.com/minw-kang
-  - Research Interest: Text generation, Sentiment analysis
+  - Homepage: [github.com/minw-kang](https://github.com/minw-kang)
+  - Research Interest: Text Generation, Sentiment Analysis
+
+- **김홍구**
+  - Major: 소프트웨어학과 - 인공지능학과
+  - Email: redba11@g.skku.edu
+  - Homepage:
+  - Research Interests: Long-term Story, Dialogue Generation
+
+- **우지은**
+  - Major: 소프트웨어학과 - 인공지능학과
+  - Email: wjieun@g.skku.edu
+  - Homepage: [github.com/wjieun](https://github.com/wjieun)
+  - Research Interests: Text Mining, Natural Language Understanding
+  
+- **김태환**
+  - Major: 소프트웨어학과 - 인공지능학과
+  - Email: dmsdl5030@g.skku.edu
+  - Homepage:
+  - Research Interests: Natural Language Processing, Machine Learning
 
 <h3>Undergraduate Students</h3>
 
-- **김홍구**
-  - Major: 소프트웨어학과
-  - Email: redba11@g.skku.edu
-  - Homepage:
-  - Research Interests: Story Generation for Game
+- **김지원** 
+  - Major: 컬처앤테크놀로지융합전공/인공지능융합전공
+  - Email: mamapapai@g.skku.edu
+  - Homepage: [github.com/kimcorn02](https://github.com/kimcorn02)
+  - Research Interests:
 
-- **우지은**
+- **김서현**
   - Major: 소프트웨어학과
-  - Email: wjieun@g.skku.edu
-  - Homepage:
-  - Research Interests: 
-  
-- **김태환**
+  - Email: fricaa@naver.com
+  - Homepage: [github.com/frica12](https://github.com/frica12)
+  - Research Interests: LLM
+
+- **김홍엽**
+  - Major: 소프트웨어학과
+  - Email: bongyeob2@gmail.com
+  - Homepage: 
+  - Research Interests:
+
+- **신세린**
   - Major: 소프트웨어학과
   - Email: 
-  - Homepage:
-  - Research Interests: 
+  - Homepage: 
+  - Research Interests:
 
-- **김지원** 
-  - Major: 컬처앤테크놀로지융합전공-인공지능융합전공
-  - Email: mamapapai@g.skku.edu
-  - Homepage: https://github.com/kimcorn02
-  - Research Interests: Game AI
+- **박소정**
+  - Major: 소프트웨어학과
+  - Email: 
+  - Homepage: 
+  - Research Interests:
 
 
 <br>
