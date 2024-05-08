@@ -85,9 +85,9 @@ sitemap: false
 
 - **박소정**
   - Major: 소프트웨어학과
-  - Email: 
+  - Email: qkrthwjd714@naver.com
   - Homepage: 
-  - Research Interests:
+  - Research Interests: Natural Language Processing, Data Analysis
 
 
 <br>
