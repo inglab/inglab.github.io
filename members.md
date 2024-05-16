@@ -104,7 +104,6 @@ sitemap: false
 
 <h3>Undergraduate Students</h3>
 
-- **신경덕** (소프트웨어학과)
 
 
 <br>
@@ -119,7 +118,7 @@ sitemap: false
 
 <h3>Former Masters Students</h3>
 
-
+- **배수영** (소프트웨어 - 인공지능학과) *2024.02* - 박사 진학
 - **김은총** (기계공 - 인공지능학과) *2023.02* - 포자랩스 
 - **현지웅** (소프트웨어 - 인공지능학과) *2022.08* - 뤼튼(Wrtn) AI-assisted writing  
 - **박종혁** (인공지능학과) *2022.08*
@@ -143,6 +142,7 @@ sitemap: false
 
 <h3>Former Undergraduate Students</h3>
 
+- **신경덕** (소프트웨어학과) *2024.08* - 버킷플레이스 (오늘의집)
 - **최아영** (소프트웨어학과) *2020.08* - devCAT studio
 - **박한나** (소프트웨어학과) *2020.08* - LINE Plus
 - **이석범** (심리학과, 컴퓨터공학과) *2018.08* - GS AI 직군
