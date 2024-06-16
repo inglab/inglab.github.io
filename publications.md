@@ -13,7 +13,7 @@ sitemap: false
 
 ### Journal Articles
 <!-- 4-pdf, 5-link -->
-1. Comparing generative and retrieval-based chatbots in answering patient questions regarding age-related macular degeneration and diabetic retinopathy. British Journal of Ophthalmology (To appear) (IF 4.1, Q1, 12/62 in OPHTHALMOLOGY). 
+1. Comparing generative and retrieval-based chatbots in answering patient questions regarding age-related macular degeneration and diabetic retinopathy. British Journal of Ophthalmology (To appear) (IF 4.1, Q1, 12/62 in OPHTHALMOLOGY). &nbsp;*[link](https://bjo.bmj.com/content/early/2024/05/15/bjo-2023-324533.info)*
 1. Evaluating Unsupervised Deep Learning Models for Network Intrusion Detection Using Real Security Event Data. Jiho Jang, Dongjun Lim, Changmin Seong, JongHun Lee, Jong-Geun Park, Yun-Gyung Cheong. International Journal of Advanced Smart Convergence Vol.11 No.4 10-19 (2022). &nbsp;*[link](http://koreascience.or.kr/article/JAKO202203059230653.view)*
 1.  Song Y, Hyun S, Cheong Y-G. Analysis of Autoencoders for Network Intrusion Detection. Sensors. 2021; 21(13):4294. https://doi.org/10.3390/s21134294 (IF 3.9) &nbsp;*[link](https://www.mdpi.com/1424-8220/21/13/4294)*
 1. Tae Jong Choi, Julian Togelius, Yun-Gyung Cheong, A Fast and Efficient Stochastic Opposition-Based Learning for Differential Evolution in Numerical Optimization, Swarm and Evolutionary Computation (2021) (IF 10). &nbsp;*[link](https://www.sciencedirect.com/science/article/pii/S2210650220304211?via%3Dihub#!)*
@@ -35,6 +35,7 @@ sitemap: false
 ### International Papers
 #### 2024
 1. Youngrok Song, Gunhee Cho, HyunJu Kim, Youngjune Kim, Byung-Chull Bae, Yun-Gyung Cheong. A Conflict-Embedded Narrative Generation Using Commonsense Reasoning. IJCAI 2024 AI, Arts & Creativity Track (To appear).
+2. Taewoo Yoo and Yun-Gyung Cheong. Leveraging LLM-Constructed Graphs for Effective Goal-Driven Storytelling. LKM2024: The First International OpenKG Workshop (Large Knowledge-Enhanced Models). co-located with IJCAI 2024 (To appear). 
 #### 2023
 1. Bae, BC., Kim, Y., Yu, M., Park, S., Kim, Y., Cheong, YG. (2023). Toward an AI-Collaborated Authoring Tool for Writing Flash Fiction. In: Stephanidis, C., Antona, M., Ntoa, S., Salvendy, G. (eds) HCI International 2023 Posters. HCII 2023. Communications in Computer and Information Science, vol 1836. Springer, Cham. https://doi.org/10.1007/978-3-031-36004-6_51.&nbsp;*[link](https://link.springer.com/chapter/10.1007/978-3-031-36004-6_51)*&nbsp;
 1. S. Y. Bae, E. C. Kim and Y. G. Cheong, "Extended Abstract: Predicting the Morality of a Character Using Character-Centric Embeddings," 2023 IEEE International Conference on Big Data and Smart Computing (BigComp), Jeju, Korea, Republic of, 2023, pp. 345-346, doi: 10.1109/BigComp57234.2023.00076.&nbsp;*[link](https://ieeexplore.ieee.org/document/10066592)*&nbsp;
