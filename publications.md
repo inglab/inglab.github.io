@@ -198,9 +198,10 @@ sitemap: false
 
 ### Awards
 
+1. First place in the Corning AI Challenge, Corning, 2024.
 1. MZ Artificial Intelligence Hackathon, 한국지능정보사회흥원 & MediaZen, 2021.
 1. A.I.: Storyteller Challenge, 한국컨텐츠진흥원, 2020.
-1. Siren Game won the firstplace of the GALA Serious Games awards, 2013.
+1. Siren Game won the first place of the GALA Serious Games awards, 2013.
 1. Doctoral Consortium Scholarship to attend the Doctoral Consortium and AAAI conference, 2006.
 1. Graduate Fellow of Computer Science at North Carolina State University, 2001-2004.
 1. Korean National IT Fellowship, 2001-2007.
