@@ -34,8 +34,12 @@ sitemap: false
 
 ### International Papers
 #### 2024
-1. Youngrok Song, Gunhee Cho, HyunJu Kim, Youngjune Kim, Byung-Chull Bae, Yun-Gyung Cheong. A Conflict-Embedded Narrative Generation Using Commonsense Reasoning. IJCAI 2024 AI, Arts & Creativity Track (To appear).
-2. Taewoo Yoo and Yun-Gyung Cheong. Leveraging LLM-Constructed Graphs for Effective Goal-Driven Storytelling. LKM2024: The First International OpenKG Workshop (Large Knowledge-Enhanced Models). co-located with IJCAI 2024 (To appear). 
+1. Honggu Kim, Minwoo Kang, Hyeyoung Choi, and Yun-Gyung Cheong. Dataset Generation for Korean Urban Parks Analysis with Large Language Models. Proceedings of the 33rd ACM International Conference on Information and Knowledge Management (CIKM '24), October 21--25, 2024, Boise, ID, USA (To appear)
+1. Youngrok Song, Gunhee Cho, HyunJu Kim, Youngjune Kim, Byung-Chull Bae, Yun-Gyung Cheong. A Conflict-Embedded Narrative Generation Using Commonsense Reasoning. Proceedings of the Thirty-Third International Joint Conference on Artificial Intelligence. 
+AI, Arts & Creativity. Pages 7744-7752. https://doi.org/10.24963/ijcai.2024/857
+1. Taewoo Yoo and Yun-Gyung Cheong. Leveraging LLM-Constructed Graphs for Effective Goal-Driven Storytelling. LKM2024: The First International OpenKG Workshop (Large Knowledge-Enhanced Models). co-located with IJCAI 2024, August 3, 2024.
+1. Bae, Byung-chull, Lee, Jae-yon, Park, Seyoung. Cheong, Yun-gyung. Crafting Twist Ending: A Human-AI Collaborative Writing Tool for Short Stories. DH 2024. August 6-9, 2024 &nbsp;*[link]((https://dh2024.adho.org/program/))*&nbsp;
+
 #### 2023
 1. Bae, BC., Kim, Y., Yu, M., Park, S., Kim, Y., Cheong, YG. (2023). Toward an AI-Collaborated Authoring Tool for Writing Flash Fiction. In: Stephanidis, C., Antona, M., Ntoa, S., Salvendy, G. (eds) HCI International 2023 Posters. HCII 2023. Communications in Computer and Information Science, vol 1836. Springer, Cham. https://doi.org/10.1007/978-3-031-36004-6_51.&nbsp;*[link](https://link.springer.com/chapter/10.1007/978-3-031-36004-6_51)*&nbsp;
 1. S. Y. Bae, E. C. Kim and Y. G. Cheong, "Extended Abstract: Predicting the Morality of a Character Using Character-Centric Embeddings," 2023 IEEE International Conference on Big Data and Smart Computing (BigComp), Jeju, Korea, Republic of, 2023, pp. 345-346, doi: 10.1109/BigComp57234.2023.00076.&nbsp;*[link](https://ieeexplore.ieee.org/document/10066592)*&nbsp;
