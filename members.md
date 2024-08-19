@@ -57,6 +57,18 @@ sitemap: false
   - Homepage:
   - Research Interests: Natural Language Processing, Machine Learning
 
+- **김서현**
+  - Major: 소프트웨어학과 - 지능형소프트웨어학과
+  - Email: fricaa@naver.com
+  - Homepage: [github.com/frica12](https://github.com/frica12)
+  - Research Interests: LLM
+
+- **김홍엽**
+  - Major: 소프트웨어학과 - 인공지능학과
+  - Email: bongyeob2@gmail.com
+  - Homepage: 
+  - Research Interests:
+
 <h3>Undergraduate Students</h3>
 
 - **김지원** 
@@ -64,30 +76,6 @@ sitemap: false
   - Email: mamapapai@g.skku.edu
   - Homepage: [github.com/kimcorn02](https://github.com/kimcorn02)
   - Research Interests:
-
-- **김서현**
-  - Major: 소프트웨어학과
-  - Email: fricaa@naver.com
-  - Homepage: [github.com/frica12](https://github.com/frica12)
-  - Research Interests: LLM
-
-- **김홍엽**
-  - Major: 소프트웨어학과
-  - Email: bongyeob2@gmail.com
-  - Homepage: 
-  - Research Interests:
-
-- **신세린**
-  - Major: 소프트웨어학과
-  - Email: 
-  - Homepage: 
-  - Research Interests:
-
-- **박소정**
-  - Major: 소프트웨어학과
-  - Email: qkrthwjd714@naver.com
-  - Homepage: 
-  - Research Interests: Natural Language Processing, Data Analysis
 
 
 <br>
@@ -142,6 +130,7 @@ sitemap: false
 
 <h3>Former Undergraduate Students</h3>
 
+- **신세린** (소프트웨어학과) *2024.08*
 - **신경덕** (소프트웨어학과) *2024.08* - 버킷플레이스 (오늘의집)
 - **최아영** (소프트웨어학과) *2020.08* - devCAT studio
 - **박한나** (소프트웨어학과) *2020.08* - 토스뱅크
