@@ -58,7 +58,7 @@ sitemap: false
   - Research Interests: Natural Language Processing, Machine Learning
 
 - **김서현**
-  - Major: 소프트웨어학과 - 지능형소프트웨어학과
+  - Major: 소프트웨어학과 - 인공지능학과
   - Email: fricaa@naver.com
   - Homepage: [github.com/frica12](https://github.com/frica12)
   - Research Interests: LLM
