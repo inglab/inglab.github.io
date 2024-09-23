@@ -35,6 +35,7 @@ Keane, Pearse A, Lee, Cecilia Sungmin, Lee, Aaron Y, Cheung, Chui Ming Gemmy, Wo
 
 ### International Papers
 #### 2024
+1. Dongjun Lim and Yun-Gyung Cheong.  Integrating Plutchik's Theory with Mixture of Experts for Enhancing Emotion Classification. EMNLP 2024, November 12-16, 2024, Miami, Florida, USA  (To appear)
 1. Honggu Kim, Minwoo Kang, Hyeyoung Choi, and Yun-Gyung Cheong. Dataset Generation for Korean Urban Parks Analysis with Large Language Models. Proceedings of the 33rd ACM International Conference on Information and Knowledge Management (CIKM '24), October 21--25, 2024, Boise, ID, USA (To appear)
 1. Youngrok Song, Gunhee Cho, HyunJu Kim, Youngjune Kim, Byung-Chull Bae, Yun-Gyung Cheong. A Conflict-Embedded Narrative Generation Using Commonsense Reasoning. Proceedings of the Thirty-Third International Joint Conference on Artificial Intelligence. 
 AI, Arts & Creativity. Pages 7744-7752. https://doi.org/10.24963/ijcai.2024/857
