@@ -77,6 +77,17 @@ sitemap: false
   - Homepage: [github.com/kimcorn02](https://github.com/kimcorn02)
   - Research Interests:
 
+- **이서윤** 
+  - Major: 소프트웨어학과
+  - Email: seoyuni0727@gmail.com
+  - Homepage: [github.com/seoyoon98](https://github.com/seoyoon98)
+  - Research Interests: LLM
+
+- **김정원** 
+  - Major: 소프트웨어학과
+  - Email: dalpengx3@g.skku.edu
+  - Homepage: [github.com/threedalpeng](https://github.com/threedalpeng)
+  - Research Interests: LLM
 
 <br>
 <h2 class="hr-bottom">Dissertation Advising</h2>
