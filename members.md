@@ -87,7 +87,7 @@ sitemap: false
   - Major: 소프트웨어학과
   - Email: dalpengx3@g.skku.edu
   - Homepage: [github.com/threedalpeng](https://github.com/threedalpeng)
-  - Research Interests: LLM
+  - Research Interests:
 
 <br>
 <h2 class="hr-bottom">Dissertation Advising</h2>
