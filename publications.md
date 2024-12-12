@@ -35,7 +35,7 @@ Keane, Pearse A, Lee, Cecilia Sungmin, Lee, Aaron Y, Cheung, Chui Ming Gemmy, Wo
 
 ### International Papers
 #### 2025
-1. CharMoral: A Character Morality Dataset for Morally Dynamic Character Analysis in Long-Form Narratives. COLING 2025 (To appear).
+1. Suyoung Bae, Gunhee Cho, Boyang Li, and Yun-Gyung Cheong. CharMoral: A Character Morality Dataset for Morally Dynamic Character Analysis in Long-Form Narratives. COLING 2025 (To appear).
 
 #### 2024
 1. Dongjun Lim and Yun-Gyung Cheong.  Integrating Plutchik's Theory with Mixture of Experts for Enhancing Emotion Classification. EMNLP 2024, November 12-16, 2024, Miami, Florida, USA. &nbsp;*[link](https://dh2024.adho.org/program/)*&nbsp;
