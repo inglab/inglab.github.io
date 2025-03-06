@@ -13,19 +13,13 @@ sitemap: false
   - Homepage: [github.com/Gunhee-Cho](https://github.com/Gunhee-Cho)
   - Research Interests: Multi-Agent Simulation, Multi-Agent Story Generation
 
-<h3>MS students</h3>
- 
 - **유태우** 
   - Major: 소프트웨어학과 - 인공지능학과
   - Email: woo990307@naver.com
   - Homepage:
   - Research Interests: Story Generation, Multi-Agent System, Game AI
- 
-- **임동준**
-  - Major: 소프트웨어학과 - 인공지능학과
-  - Email: flamecracker1220@gmail.com
-  - Homepage: [github.com/flamecracker](https://github.com/flamecracker)
-  - Research Interests: Emotion, Sentiment Analysis 
+
+<h3>MS students</h3>
   
 - **장지호**
   - Major: 소프트웨어학과 - 인공지능학과
@@ -69,19 +63,19 @@ sitemap: false
   - Homepage: 
   - Research Interests:
 
-<h3>Undergraduate Students</h3>
-
 - **김지원** 
-  - Major: 컬처앤테크놀로지융합전공/인공지능융합전공
+  - Major: 컬처앤테크놀로지융합전공/인공지능융합전공 - 인공지능학과
   - Email: mamapapai@g.skku.edu
   - Homepage: [github.com/kimcorn02](https://github.com/kimcorn02)
-  - Research Interests:
+  - Research Interests: LLM agent, HCI
 
 - **이서윤** 
-  - Major: 소프트웨어학과
+  - Major: 소프트웨어학과 - 인공지능학과
   - Email: seoyuni0727@gmail.com
   - Homepage: [github.com/seoyoon98](https://github.com/seoyoon98)
-  - Research Interests: LLM
+  - Research Interests:
+
+<h3>Undergraduate Students</h3>
 
 - **김정원** 
   - Major: 소프트웨어학과
@@ -117,6 +111,7 @@ sitemap: false
 
 <h3>Former Masters Students</h3>
 
+- **임동준** (소프트웨어 - 인공지능학과) *2025.02*
 - **배수영** (소프트웨어 - 인공지능학과) *2024.02* - 박사 진학
 - **김은총** (기계공 - 인공지능학과) *2023.02* - 포자랩스 
 - **현지웅** (소프트웨어 - 인공지능학과) *2022.08* - 뤼튼(Wrtn) AI-assisted writing  
