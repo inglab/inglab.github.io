@@ -215,7 +215,7 @@ AI, Arts & Creativity. Pages 7744-7752. &nbsp;*[link](https://doi.org/10.24963/i
 <h2 class="hr-bottom">Awards</h2>
 
 ### Awards
-
+1. Awarded Grand Prize in the Bias-A-Thon, SKKU Center for Multimedia Intelligence & SKKU Deepfake Research Center, 2025.
 1. Awarded Korea Fiscal Information Service President's Award(Top Prize) in the Fiscal Information AI Search Algorithm Competition, 한국재정정보원 & 기획재정부, 2024.
 1. Awarded Grand Prize in the Corning AI Challenge, Corning, Seoul, South Korea, 2024.
 1. MZ Artificial Intelligence Hackathon, 한국지능정보사회흥원 & MediaZen, 2021.
