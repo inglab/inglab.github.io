@@ -182,6 +182,7 @@ AI, Arts & Creativity. Pages 7744-7752. &nbsp;*[link](https://doi.org/10.24963/i
 ### Korean Patents
 
 #### Registered
+1. 분류 모델에 기반하여 바꿔 쓰기 모델을 학습하는 방법, 바꿔 쓰기 모델을 이용한 텍스트 데이터의 증강 방법 및 이를 이용한 텍스트 처리 장치. 전현규, 정윤경.  &nbsp;*Application No: 10-2021-0182704 (2021.12.20), Registration No: 10-2799590 (2025.4.18) *
 1. Multi-class 데이터 잠재공간 분리를 위한 오토인코더 모델. 송영록, 정윤경.&nbsp;*Application No: 10-2020-0163962 (2020.11.01), Registration No: 10-2583586 (2023.9.22)*
 1. 다중 검색  방식을 이용한 한국어 의료 챗봇 시스템. 정민수, 정윤경. <br>*Application No: 10-2020-0134630 (2020.10.16), Registration No: 10-2445841 (2022-09-16)*
 1. 임베딩 기반의 인과 관계 탐지 및 추출 방법. 정윤경.<br>*Application No: 10-2019-0019985 (2019.02.20), Registration No: 10-2203895 (2021.01.11)*
