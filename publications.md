@@ -29,14 +29,14 @@ Keane, Pearse A, Lee, Cecilia Sungmin, Lee, Aaron Y, Cheung, Chui Ming Gemmy, Wo
 
 
 ### Book Chapters
-1. Yun-Gyung Cheong. An Educator’s Guide to Interactive Digital Narrative: Syllabi and Resources From Around the World, (Eds) Joshua A. Fisher, María Cecilia Reyes, Jonathan Barbara. Carnegie Mellon University Press. (To appear) &nbsp;*[link](https://idnsyllabi.com/)*
+1. Yun-Gyung Cheong. An Educator’s Guide to Interactive Digital Narrative: Syllabi and Resources From Around the World, (Eds) Joshua A. Fisher, María Cecilia Reyes, Jonathan Barbara. Carnegie Mellon University Press.  &nbsp;*[link](https://idnsyllabi.com/)* &nbsp;*[hard copy]([https://idnsyllabi.com/](https://www.lulu.com/shop/barbara-jonathan-and-reyes-mar%C3%ADa-cecilia-and-fisher-joshua-a/an-educators-guide-to-digital-narrative/paperback/product-nv788w6.html?page=1&pageSize=4))* 
 1. Cheong, Y.-G., Khaled, R., Holmgard, C., Yannakakis, G. N. Serious Games for Teaching Conflict Resolution: Modeling Conflict Dynamics, Conflict and negotiation: Social research and machine intelligence. Part of the series Computational Social Sciences, pp 449-475, D'Errico, F., Vinciarelli, A., and Poggi, I. (Eds.), Springer, 14 February 2015. &nbsp;*[link](https://link.springer.com/chapter/10.1007/978-3-319-14081-0_21)*&nbsp;&nbsp;*[link2](https://lib.skku.edu/suwon/#/search/total/si?all=1%7Ck%7Ca%7CTowards%20Procedural%20Game%20Story%20Creation%20via%20Designing%20Story%20Cubes&offset=0#firstChartset)*
 1. Chapter 7. Planning with applications to quests and story. Cheong, Y.-G., Riedl, M. O., Bae, B.-C., Nelson, M. J. Procedural Content Generation in Games. Shaker, N., Togelius, J., and Nelson, M. J. (Eds.), pp. 123-141, Springer International Publishing (ISBN 978-3-319-42716-4), 2016.&nbsp;*[link](http://pcgbook.com/)*
 
 
 ### International Papers
 #### 2025
-1. Suyoung Bae, Gunhee Cho, Boyang Li, and Yun-Gyung Cheong. CharMoral: A Character Morality Dataset for Morally Dynamic Character Analysis in Long-Form Narratives. COLING 2025 (To appear).
+1. Suyoung Bae, Gunhee Cho, Boyang Li, and Yun-Gyung Cheong. CharMoral: A Character Morality Dataset for Morally Dynamic Character Analysis in Long-Form Narratives. COLING 2025. &nbsp;*[link](https://aclanthology.org/2025.coling-main.589/))*&nbsp;
 
 #### 2024
 1. Dongjun Lim and Yun-Gyung Cheong.  Integrating Plutchik's Theory with Mixture of Experts for Enhancing Emotion Classification. EMNLP 2024, November 12-16, 2024, Miami, Florida, USA. &nbsp;*[link](https://dh2024.adho.org/program/)*&nbsp;
