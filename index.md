@@ -2,7 +2,7 @@
 layout: base
 description: >
   Intelligent Narrative and Game Lab.
-last_modified_at: 2021.01.31
+last_modified_at: 2025.06.31
 sitemap: false
 no_link_title: false 
 no_excerpt: false 
@@ -13,16 +13,16 @@ cover: true
 <img style="float:right; margin:1em; width:18em; border-radius:50%;" src='/assets/img/yuna-d.jpg'>
 
 ## Yun-Gyung Cheong, Ph.D.
-Associate Professor<br>
+Professor<br>
 College of Computing<br>
-Department of Artificial Intelligence<br>
+Department of Artificial Intelligence <br>
 27302A, Engineering Building II<br>
 Sungkyunkwan University<br>
 Suwon, South Korea<br>
 aimecca@skku.edu<br>
 +82-31-299-4393<br><br>
 
-Yun-Gyung Cheong is an Associate Professor at Sungkyunkwan University, Korea. Her research interests lie in artificial intelligence with emphasis on its use in discourse planning for narrative, text, and games. She is working on natural language techniques and interactive storytelling techniques on various platforms including 3D animation, VR, and games. She is interested in computational models of stories and text modeling.<br>
+Yun-Gyung Cheong is a Professor at Sungkyunkwan University, Korea. Her research interests lie in artificial intelligence with emphasis on its use in discourse planning for narrative, text, and games. She is working on natural language techniques and interactive storytelling techniques on various platforms including 3D animation, VR, and games. She is interested in computational models of stories and text modeling.<br>
 
 Yun-Gyung Cheong received the B.S. degree in 1996 and the M.S. degree in 1998 in information engineering from Sungkyunkwan University (SKKU). In 2007, she received the Ph.D. degree in computer science from North Carolina State University, Raleigh, NC, USA. Before joining SKKU, she was a Postdoctoral Fellow at the Center for Computer Games Research at the IT University of Copenhagen (2010-2014) and a researcher at Samsung Advanced Institute of Technology (2007-2010).
 
