@@ -36,6 +36,7 @@ Keane, Pearse A, Lee, Cecilia Sungmin, Lee, Aaron Y, Cheung, Chui Ming Gemmy, Wo
 
 ### International Papers
 #### 2025
+1. Jeongyoon Park, Yun-Gyung Cheong and Byung-Chull Bae. Empowering Players as Story Creators: A Character-Centric Interactive Fiction Generation System. CMN 2025. &nbsp;*[link to PDF](https://tecfa.unige.ch/cmn25/19papers/CMN25_paper_17_Park.pdf)*&nbsp; &nbsp;*[Link to CMN2025 paper list](https://tecfa.unige.ch/cmn25/19papers/)*&nbsp;
 1. Suyoung Bae, Gunhee Cho, Boyang Li, and Yun-Gyung Cheong. CharMoral: A Character Morality Dataset for Morally Dynamic Character Analysis in Long-Form Narratives. COLING 2025. &nbsp;*[link](https://aclanthology.org/2025.coling-main.589/)*&nbsp;
 
 #### 2024
