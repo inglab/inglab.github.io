@@ -10,10 +10,10 @@ author:
   email: aimecca@skku.edu
 
 nav:
-  - title: Members
-    url:   /members/
   - title: Publications
     url:   /publications/
+  - title: Members
+    url:   /members/
   - title: Projects
     url:   /projects/
   - title: Courses
