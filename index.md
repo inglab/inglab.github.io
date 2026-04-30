@@ -25,7 +25,7 @@ Sungkyunkwan University
 
   </div>
   <figure class="home-portrait">
-    <img src="/assets/img/yuna-d.jpg" alt="Yun-Gyung Cheong">
+    <img src="/assets/img/yuna-a.jpeg" alt="Yun-Gyung Cheong">
   </figure>
 </section>
 
