@@ -96,6 +96,10 @@ Department of Computer Science and Engineering<br>
 Department of Artificial Intelligence<br>
 College of Computing and Informatics<br>
 Sungkyunkwan University
+
+### Contact Info
+27302A, Engineering Building II<br>
+<a href="mailto:aimecca@skku.edu">aimecca@skku.edu</a><br>
 </p>
 
   </div>
@@ -104,7 +108,6 @@ Sungkyunkwan University
   </figure>
 </section>
 
-### Contacts
 <section class="home-contact">
   <p>
     27302A, Engineering Building II<br>
