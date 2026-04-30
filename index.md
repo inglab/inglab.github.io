@@ -95,7 +95,7 @@ Professor<br>
 Department of Computer Science and Engineering<br>
 Department of Artificial Intelligence<br>
 College of Computing and Informatics<br>
-Sungkyunkwan University<br>
+Sungkyunkwan University<br><br>
 
 Office: 27302A, Engineering Building II<br>
 <a href="mailto:aimecca@skku.edu">aimecca@skku.edu</a><br>
@@ -119,7 +119,7 @@ Yun-Gyung Cheong received the B.S. degree in 1996 and the M.S. degree in 1998 in
 ## Research Interests
 
 |  Natural Language Processing (NLP) |     Computational Intelligence    | Interactive Storytelling |
-| Narrative and Discourse Generation |              Game AI              | Agent                    |
-|            User Modeling           | Computational Models of Narrative | Serious Games            |
-|         Story Understanding        |              Character            | Planing                  |
+| Narrative and Discourse Generation |              Game AI              | Agents                   |
+|            User Modeling           | Computational Models of Narrative | Responsible AI           |
+|         Story Understanding        |      Computational Creativity     | Planing                  |
 
