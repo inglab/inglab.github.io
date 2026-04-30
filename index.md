@@ -84,12 +84,13 @@ cover: true
     }
   }
 </style>
-    <p class="home-eyebrow">Intelligent Narrative and Game Lab</p>
+    Intelligent Narrative and Game Lab
 
 ## Yun-Gyung Cheong, Ph.D.
 
 <section class="home-hero">
   <div class="home-hero__content">
+        <p class="home-eyebrow">Intelligent Narrative and Game Lab</p>
 <p class="home-role">
 Professor<br>
 Department of Computer Science and Engineering<br>
