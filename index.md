@@ -85,12 +85,11 @@ cover: true
   }
 </style>
 
+## Yun-Gyung Cheong, Ph.D.
+
 <section class="home-hero">
   <div class="home-hero__content">
     <p class="home-eyebrow">Intelligent Narrative and Game Lab</p>
-
-## Yun-Gyung Cheong, Ph.D.
-
 <p class="home-role">
 Professor<br>
 Department of Computer Science and Engineering<br>
@@ -105,6 +104,7 @@ Sungkyunkwan University
   </figure>
 </section>
 
+### Contacts
 <section class="home-contact">
   <p>
     27302A, Engineering Building II<br>
