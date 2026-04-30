@@ -49,22 +49,16 @@ Yun-Gyung Cheong received the B.S. degree in 1996 and the M.S. degree in 1998 in
 
 </section>
 
-## Pages
-
-- [Publications](publications.md)
-- [Members](members.md)
-- [Projects](projects.md)
-- [Courses](courses.md)
-
 ## Research Interests
 
 |  Natural Language Processing (NLP) |     Computational Intelligence    | Interactive Storytelling |
 | Narrative and Discourse Generation |              Game AI              | Data Modeling            |
 |            User Modeling           | Computational Models of Narrative | Serious Games            |
-|               Robots               |            Text Mining            | Planing                  |
-|             Symbolic AI            |                                   |                          |
+|            Reasoning               |            Text Mining            | Planing                  |
 
+---
 ## Talks
 - 4차 산업혁명과 여성과학자의 역할, 한국정보보호학회 하계학술대회 (CISC-S), 2017.06.23<br>*[PDF](/assets/files/cisc2017-women.pdf)*
 - AI for safe online game chats, AI in Asia - Ethics, Safety and Societal Impact, 16, December, 2016, Korea University, South Korea<br>*[PDF](https://drive.google.com/open?id=1SveepCcIn1sEgzeD9tqpsh-V5W5w3qJ8)*&nbsp;&nbsp;*[link](https://www.digitalasiahub.org/2016/12/21/ai-in-asia-ethics-safety-and-societal-impact/)*
 - AI Storytelling in Games, 인공지능 최근 동향 워크샵, 한국정보과학회, 제주, 2016.06.29<br>*[PDF](http://sigai.or.kr/workshop/kcc/2016/recent-ai-trend/slides/AI-Storytelling-in-Games.pdf)*&nbsp;&nbsp;*[link](http://sigai.or.kr/workshop/kcc/2016/recent-ai-trend/)*
+---
