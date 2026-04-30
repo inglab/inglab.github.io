@@ -10,21 +10,51 @@ hide_image: false
 cover: true
 ---
 
-<img style="float:right; margin:1em; width:18em; border-radius:50%;" src='/assets/img/yuna-d.jpg'>
+<section class="home-hero">
+  <div class="home-hero__content">
+    <p class="home-eyebrow">Intelligent Narrative and Game Lab</p>
 
 ## Yun-Gyung Cheong, Ph.D.
+
+<p class="home-role">
 Professor<br>
 College of Computing<br>
-Department of Artificial Intelligence <br>
-27302A, Engineering Building II<br>
-Sungkyunkwan University<br>
-Suwon, South Korea<br>
-aimecca@skku.edu<br>
-+82-31-299-4393<br><br>
+Department of Artificial Intelligence<br>
+Sungkyunkwan University
+</p>
 
-Yun-Gyung Cheong is a Professor at Sungkyunkwan University, Korea. Her research interests lie in artificial intelligence with emphasis on its use in discourse planning for narrative, text, and games. She is working on natural language techniques and interactive storytelling techniques on various platforms including 3D animation, VR, and games. She is interested in computational models of stories and text modeling.<br>
+  </div>
+  <figure class="home-portrait">
+    <img src="/assets/img/yuna-d.jpg" alt="Yun-Gyung Cheong">
+  </figure>
+</section>
+
+<section class="home-contact">
+  <p>
+    27302A, Engineering Building II<br>
+    Sungkyunkwan University<br>
+    Suwon, South Korea
+  </p>
+  <p>
+    <a href="mailto:aimecca@skku.edu">aimecca@skku.edu</a><br>
+    +82-31-299-4393
+  </p>
+</section>
+
+<section class="home-section home-bio">
+
+Yun-Gyung Cheong is a Professor at Sungkyunkwan University, Korea. Her research interests lie in artificial intelligence with emphasis on its use in discourse planning for narrative, text, and games. She is working on natural language techniques and interactive storytelling techniques on various platforms including 3D animation, VR, and games. She is interested in computational models of stories and text modeling.
 
 Yun-Gyung Cheong received the B.S. degree in 1996 and the M.S. degree in 1998 in information engineering from Sungkyunkwan University (SKKU). In 2007, she received the Ph.D. degree in computer science from North Carolina State University, Raleigh, NC, USA. Before joining SKKU, she was a Postdoctoral Fellow at the Center for Computer Games Research at the IT University of Copenhagen (2010-2014) and a researcher at Samsung Advanced Institute of Technology (2007-2010).
+
+</section>
+
+## Pages
+
+- [Publications](publications.md)
+- [Members](members.md)
+- [Projects](projects.md)
+- [Courses](courses.md)
 
 ## Research Interests
 
