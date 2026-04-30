@@ -10,6 +10,81 @@ hide_image: false
 cover: true
 ---
 
+<style>
+  .home-hero {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) clamp(180px, 24vw, 260px);
+    align-items: center;
+    gap: 2.5rem;
+    margin: 2rem 0 2.25rem;
+  }
+
+  .home-hero__content {
+    min-width: 0;
+  }
+
+  .home-eyebrow {
+    margin: 0 0 0.5rem;
+    color: #6e6e73;
+    font-size: 0.95rem;
+    letter-spacing: 0;
+  }
+
+  .home-role {
+    margin-top: 1rem;
+    color: #424245;
+    line-height: 1.65;
+  }
+
+  .home-portrait {
+    margin: 0;
+    justify-self: end;
+  }
+
+  .home-portrait img {
+    display: block;
+    width: clamp(180px, 24vw, 260px);
+    aspect-ratio: 1;
+    object-fit: cover;
+    object-position: center top;
+    border-radius: 28px;
+  }
+
+  .home-contact {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 1.25rem;
+    margin: 0 0 2.5rem;
+    padding: 1.25rem 0;
+    border-top: 1px solid #e5e5e7;
+    border-bottom: 1px solid #e5e5e7;
+    color: #424245;
+  }
+
+  @media (max-width: 720px) {
+    .home-hero {
+      grid-template-columns: 1fr;
+      gap: 1.5rem;
+      margin-top: 1rem;
+    }
+
+    .home-portrait {
+      justify-self: start;
+      order: -1;
+    }
+
+    .home-portrait img {
+      width: min(68vw, 220px);
+      border-radius: 24px;
+    }
+
+    .home-contact {
+      grid-template-columns: 1fr;
+      gap: 0.25rem;
+    }
+  }
+</style>
+
 <section class="home-hero">
   <div class="home-hero__content">
     <p class="home-eyebrow">Intelligent Narrative and Game Lab</p>
@@ -56,5 +131,4 @@ Yun-Gyung Cheong received the B.S. degree in 1996 and the M.S. degree in 1998 in
 | Narrative and Discourse Generation |              Game AI              | Data Modeling            |
 |            User Modeling           | Computational Models of Narrative | Serious Games            |
 |            Reasoning               |            Text Mining            | Planing                  |
-
 
