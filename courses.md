@@ -3,10 +3,31 @@ layout: base
 sitemap: false
 ---
 
-<h3> 2023 Fall </h3> 
+### 2026 Fall
+- Intelligent Storytelling *(Graduate)*
+- Fundamentals of Natural Language Processing *(Graduate)*
+- Introduction to AI
+- Computer Programming for Engineers
+
+### 2026 Spring
+- Computer Programming for Engineers
+- AI Theory & Algorithm *(Graduate)*
+
+### 2025 Fall
+- Fundamentals of Natural Language Processing *(Graduate)*
+- Computer Programming for Engineers
+
+### 2024 Fall
+- Fundamentals of Natural Language Processing *(Graduate)*
+- Computer Programming for Engineers
+
+### 2024 Spring
+- Computer Programming for Engineers
+- AI Theory & Algorithm *(Graduate)*
+
+### 2023 Fall 
 - Intelligent Storytelling
 - Fundamentals of Natural Language Processing *(Graduate)*
-
 
 ### 2023 Spring 
 - Computer Programming for Engineers
