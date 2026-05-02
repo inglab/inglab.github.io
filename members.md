@@ -21,11 +21,6 @@ sitemap: false
 
 <h3>MS students</h3>
   
-- **장지호**
-  - Major: 소프트웨어학과 - 인공지능학과
-  - Email: zyoa@skku.edu
-  - Homepage:
-  - Research Interests: Cotrollable Stroy Generation, Open-world Story Generation
   
 - **강민우**
   - Major: 소프트웨어학과 - 인공지능학과
@@ -111,6 +106,8 @@ sitemap: false
 
 <h3>Former Masters Students</h3>
 
+- **김태환** (소프트웨어 - 인공지능학과) *2026.02* - 삼성전자
+- **우지은** (소프트웨어 - 인공지능학과) *2026.02* - 삼성전자
 - **장지호** (소프트웨어 - 인공지능학과) *2026.02* - 포자랩스 
 - **임동준** (소프트웨어 - 인공지능학과) *2025.02* - NC AI 
 - **배수영** (소프트웨어 - 인공지능학과) *2024.02* - 박사 진학
