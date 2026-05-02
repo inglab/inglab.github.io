@@ -20,31 +20,6 @@ sitemap: false
   - Research Interests: Story Generation, Multi-Agent System, Game AI
 
 <h3>MS students</h3>
-  
-  
-- **강민우**
-  - Major: 소프트웨어학과 - 인공지능학과
-  - Email: skydnk4332@skku.edu
-  - Homepage: [github.com/minw-kang](https://github.com/minw-kang)
-  - Research Interest: Text Generation, Sentiment Analysis
-
-- **김홍구**
-  - Major: 소프트웨어학과 - 인공지능학과
-  - Email: redba11@g.skku.edu
-  - Homepage:
-  - Research Interests: Long-term Story, Dialogue Generation
-
-- **우지은**
-  - Major: 소프트웨어학과 - 인공지능학과
-  - Email: wjieun@g.skku.edu
-  - Homepage: [github.com/wjieun](https://github.com/wjieun)
-  - Research Interests: Text Mining, Natural Language Understanding
-  
-- **김태환**
-  - Major: 소프트웨어학과 - 인공지능학과
-  - Email: dmsdl5030@g.skku.edu
-  - Homepage:
-  - Research Interests: Natural Language Processing, Machine Learning
 
 - **김서현**
   - Major: 소프트웨어학과 - 인공지능학과
@@ -70,13 +45,29 @@ sitemap: false
   - Homepage: [github.com/seoyoon98](https://github.com/seoyoon98)
   - Research Interests:
 
-<h3>Undergraduate Students</h3>
-
 - **김정원** 
   - Major: 소프트웨어학과
   - Email: dalpengx3@g.skku.edu
   - Homepage: [github.com/threedalpeng](https://github.com/threedalpeng)
   - Research Interests:
+
+**임석범** 
+  - Major: 소프트웨어학과
+  - Email: dalpengx3@g.skku.edu
+  - Homepage:
+  - Research Interests:
+
+**김용순** 
+  - Major: 물리학과 - 인공지능학과
+  - Email: 
+  - Homepage: 
+  - Research Interests:
+
+<h3>Undergraduate Students</h3>
+
+- **김동현** 
+  - Major: 소프트웨어학과
+    
 
 <br>
 <h2 class="hr-bottom">Dissertation Advising</h2>
@@ -106,8 +97,10 @@ sitemap: false
 
 <h3>Former Masters Students</h3>
 
+- **강민우** (소프트웨어 - 인공지능학과) *2026.02*   - Homepage: [github.com/minw-kang](https://github.com/minw-kang)
+- **김홍구** (소프트웨어 - 인공지능학과) *2026.02*
 - **김태환** (소프트웨어 - 인공지능학과) *2026.02* - 삼성전자
-- **우지은** (소프트웨어 - 인공지능학과) *2026.02* - 삼성전자
+- **우지은** (소프트웨어 - 인공지능학과) *2026.02* - 삼성전자   - Homepage: [github.com/wjieun](https://github.com/wjieun)
 - **장지호** (소프트웨어 - 인공지능학과) *2026.02* - 포자랩스 
 - **임동준** (소프트웨어 - 인공지능학과) *2025.02* - NC AI 
 - **배수영** (소프트웨어 - 인공지능학과) *2024.02* - 박사 진학
