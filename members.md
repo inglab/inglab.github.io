@@ -51,13 +51,13 @@ sitemap: false
   - Homepage: [github.com/threedalpeng](https://github.com/threedalpeng)
   - Research Interests:
 
-**임석범** 
+- **임석범** 
   - Major: 소프트웨어학과
   - Email: dalpengx3@g.skku.edu
   - Homepage:
   - Research Interests:
 
-**김용순** 
+- **김용순** 
   - Major: 물리학과 - 인공지능학과
   - Email: 
   - Homepage: 
