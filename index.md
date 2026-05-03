@@ -99,6 +99,7 @@ Sungkyunkwan University<br><br>
 Office: 27302A, Engineering Building II<br>
 <a href="mailto:aimecca@skku.edu">aimecca@skku.edu</a><br>
 <a href="https://scholar.google.com/citations?user=yhfGHeIAAAAJ&hl=en">google scholar</a><br>
+<a href="assets/cv.pdf">CV</a><br>
 
 </p>
 
