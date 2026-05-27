@@ -43,7 +43,7 @@ sitemap: false
   - Major: 소프트웨어학과 - 인공지능학과
   - Email: seoyuni0727@gmail.com
   - Homepage: [github.com/seoyoon98](https://github.com/seoyoon98)
-  - Research Interests:
+  - Research Interests: RAG, LLM agent
 
 - **김정원** 
   - Major: 소프트웨어학과
