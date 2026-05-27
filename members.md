@@ -64,8 +64,8 @@ sitemap: false
   - Research Interests:
  
 - **홍승연** 
-  - Major: 
-  - Email: 
+  - Major: 소프트웨어학과 - 인공지능학과
+  - Email: norang5514@g.skku.edu
   - Homepage: 
   - Research Interests:
 
