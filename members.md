@@ -59,9 +59,9 @@ sitemap: false
 
 - **김용순** 
   - Major: 물리학과 - 인공지능학과
-  - Email: 
-  - Homepage: 
-  - Research Interests:
+  - Email: rvrose801@g.skku.edu
+  - Homepage: https://github.com/noosgnoy
+  - Research Interests: Narrative Intelligence, Game AI
  
 - **홍승연** 
   - Major: 소프트웨어학과 - 인공지능학과
