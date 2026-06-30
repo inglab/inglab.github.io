@@ -114,7 +114,7 @@ Office: 27302A, Engineering Building II<br>
 
 Yun-Gyung Cheong is a Professor in the Department of Artificial Intelligence and the Department of Computer Science and Engineering at Sungkyunkwan University, South Korea. Her research interests lie in artificial intelligence and natural language processing with a focus on narrative and discourse, interactive storytelling, and applications for social good. She is particularly interested in computational models of stories and characters.
 
-Yun-Gyung Cheong received the B.S. degree in 1996 and the M.S. degree in 1998 in information engineering from Sungkyunkwan University (SKKU). In 2007, she received the Ph.D. degree in computer science from North Carolina State University, Raleigh, NC, USA. Before joining SKKU, she was a Postdoctoral Fellow at the Center for Computer Games Research at the IT University of Copenhagen (2010-2014) and a researcher at Samsung Advanced Institute of Technology (2007-2010).
+Yun-Gyung Cheong received the B.S. degree in 1996 and the M.S. degree in 1998 in information engineering from Sungkyunkwan University (SKKU). In 2007, she received the Ph.D. degree in computer science from North Carolina State University, Raleigh, NC, USA. Before joining SKKU, she was a Postdoctoral Fellow at the Center for Computer Games Research at the IT University of Copenhagen (2010-2014) and a researcher at Samsung Advanced Institute of Technology (2008-2010).
 
 </section>
 
