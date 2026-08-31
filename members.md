@@ -63,9 +63,15 @@ sitemap: false
   - Homepage: 
   - Research Interests:
 
+- **김동현** 
+  - Major: 소프트웨어학과 - 인공지능학과
+  - Email: 
+  - Homepage: 
+  - Research Interests:
+
 <h3>Undergraduate Students</h3>
 
-- **김동현** 
+- **김동건** 
   - Major: 소프트웨어학과
   - Email: 
   - Homepage: 
