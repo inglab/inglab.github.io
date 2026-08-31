@@ -21,12 +21,6 @@ sitemap: false
 
 <h3>MS students</h3>
 
-- **김서현**
-  - Major: 소프트웨어학과 - 인공지능학과
-  - Email: fricaa@naver.com
-  - Homepage: [github.com/frica12](https://github.com/frica12)
-  - Research Interests: LLM
-
 - **김홍엽**
   - Major: 소프트웨어학과 - 인공지능학과
   - Email: bongyeob2@gmail.com
@@ -107,6 +101,7 @@ sitemap: false
 
 <h3>Former Masters Students</h3>
 
+- **강민우** (소프트웨어 - 인공지능학과) *2026.02* - 삼성전자   - Homepage: [[github.com/frica12](https://github.com/frica12)    
 - **강민우** (소프트웨어 - 인공지능학과) *2026.02*   - Homepage: [github.com/minw-kang](https://github.com/minw-kang)
 - **김홍구** (소프트웨어 - 인공지능학과) *2026.02* - 컨포트랩 (FDE) 
 - **김태환** (소프트웨어 - 인공지능학과) *2026.02* - 삼성전자
