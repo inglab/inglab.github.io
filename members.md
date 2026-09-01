@@ -107,7 +107,7 @@ sitemap: false
 
 <h3>Former Masters Students</h3>
 
-- **김서현** (소프트웨어 - 인공지능학과) *2026.08* - 삼성전자   - Homepage: [[github.com/frica12](https://github.com/frica12)    
+- **김서현** (소프트웨어 - 인공지능학과) *2026.08* - 삼성전자   - Homepage: [github.com/frica12](https://github.com/frica12)    
 - **강민우** (소프트웨어 - 인공지능학과) *2026.02*   - Homepage: [github.com/minw-kang](https://github.com/minw-kang)
 - **김홍구** (소프트웨어 - 인공지능학과) *2026.02* - 컨포트랩 (FDE) 
 - **김태환** (소프트웨어 - 인공지능학과) *2026.02* - 삼성전자
