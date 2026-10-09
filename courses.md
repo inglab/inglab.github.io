@@ -4,7 +4,6 @@ sitemap: false
 ---
 
 ### 2026 Fall
-- Intelligent Storytelling *(Graduate)*
 - Fundamentals of Natural Language Processing *(Graduate)*
 - Introduction to AI
 - Computer Programming for Engineers
