@@ -125,4 +125,7 @@ Yun-Gyung Cheong received the B.S. degree in 1996 and the M.S. degree in 1998 in
 |           User Modeling            |         Affective Computing       | Responsible AI           |
 |            Ontology                |              Game AI              | Planing                  |
 
+## Awards
+<a href="https://www.korean.go.kr/front/board/boardStandardView.do?board_id=6&mn_id=184&b_seq=1071&pageIndex=1">2026년 인공지능 말평 경진대회. 대상 (문화체육관광부 장관상), 특별상 (NC AI 후원)</a><br>
+
 
