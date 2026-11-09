@@ -70,12 +70,6 @@ sitemap: false
   - Research Interests:
 
 <h3>Undergraduate Students</h3>
-
-- **김동건** 
-  - Major: 소프트웨어학과
-  - Email: 
-  - Homepage: 
-  - Research Interests:
     
 
 <br>
